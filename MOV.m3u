@@ -453,6 +453,19 @@ https://live.lnwplayer.com/hls/9e963488-6146-4b8e-8dd3-9e7a81aa04db/index.m3u8
 https://live.lnwplayer.com/hls/1b11d04f-cb0e-45cc-b60b-d441fbbd2f46/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-My-Boo-2024.webp" group-title="🎬 ดูหนังใหม่ 2024" ,ก- อนงค์ My Boo (2024)
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/b9f3a213-758d-4fd9-9b95-ac4b4dc6e2ed/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/Wolfs-2024-%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A1%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B9%81%E0%B8%AA%E0%B8%9A%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC.webp" group-title="🎬 ดูหนังใหม่ 2024" ,ก- สองคมคู่แสบมหากาฬ (2024)
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/15477c53-e041-4462-bb3d-baa66631afe1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Black-Storm-2024-%E0%B8%9E%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC.webp" group-title="🎬 ดูหนังใหม่ 2024" ,ก- พายุทมิฬ (2024)
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/c33a9344-3834-4763-8f13-44d1f7873198/index.m3u8
 
 
 
@@ -568,124 +581,124 @@ https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/The-Story-of-Yuan-Tiangang-%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%A7-2024.webp",AA ยุทธจักรของคนเลว (2024)
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/The-Story-of-Yuan-Tiangang-%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%A7-2024.webp",AA ยุทธจักรของคนเลว (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/ec65838b-bf4e-4421-aaf5-5be7621495be/index.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/The-Menendez-Brothers-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B9%80%E0%B8%99%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%8B-2024-187x269.jpg", AA พี่น้องเมเนนเดซ (2024)
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/The-Menendez-Brothers-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B9%80%E0%B8%99%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%8B-2024-187x269.jpg", AA พี่น้องเมเนนเดซ (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tongha-movie.com/
 https://main.24playerhd.com/newplaylist/bb389d7e4825d396ba6dcdd1/bb389d7e4825d396ba6dcdd1.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://doomovie.online/wp-content/uploads/2024/10/A-True-Gentleman-%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B8%E0%B8%A9%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87-2024-196x280.jpg",A- สุภาพบุรุษตัวจริง (2024) 
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://doomovie.online/wp-content/uploads/2024/10/A-True-Gentleman-%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B8%E0%B8%A9%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87-2024-196x280.jpg",A- สุภาพบุรุษตัวจริง (2024) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://doomovie.online/
 https://ezycdn.com/playlist-06e5k9it-master.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2020/12/51A97AB3-519F-48FC-9B17-D9E1D3FA6A86.jpeg",A- เดอะ คิสซิ่ง บูธ ภาค 2
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2020/12/51A97AB3-519F-48FC-9B17-D9E1D3FA6A86.jpeg",A- เดอะ คิสซิ่ง บูธ ภาค 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/9e1e60df-f9ee-4bb4-b367-433297bb4aa0/index.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2020/02/13.jpg",A- ฮอร์ส เกิร์ล [ซับไทย]
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2020/02/13.jpg",A- ฮอร์ส เกิร์ล [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/a82a2d92-be9e-423a-adbe-1dd14bf00e28/index.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/CTRL-2024.webp",A- CTRL (2024)
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/CTRL-2024.webp",A- CTRL (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/d78bdecf-658a-43de-9d30-65b74b699bc7/index.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/Worst-Ex-Ever-2024-%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%A2%E0%B9%88.webp",A- แฟนเก่ายอดแย่ (2024) ตอน EP1
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/Worst-Ex-Ever-2024-%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%A2%E0%B9%88.webp",A- แฟนเก่ายอดแย่ (2024) ตอน EP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/2a313e3e-c454-4b78-b8d7-a184b4bf4b79/index.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Apollo-13-Survival-%E0%B8%AD%E0%B8%B0%E0%B8%9E%E0%B8%AD%E0%B8%A5%E0%B9%82%E0%B8%A5-13-%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%94-2024-300x450.jpg",อะพอลโล 13 ภารกิจต้องรอด (2024)
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Apollo-13-Survival-%E0%B8%AD%E0%B8%B0%E0%B8%9E%E0%B8%AD%E0%B8%A5%E0%B9%82%E0%B8%A5-13-%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%94-2024-300x450.jpg",อะพอลโล 13 ภารกิจต้องรอด (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/152855e12fd6f74b7b95b1e4/152855e12fd6f74b7b95b1e4.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Non-Negotiable-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%88%E0%B8%B2%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81-2024-300x450.jpg",เจรจาท้ารัก (2024)
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Non-Negotiable-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%88%E0%B8%B2%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81-2024-300x450.jpg",เจรจาท้ารัก (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/a01333082e3a87ec7216d06b/a01333082e3a87ec7216d06b.m3u8
 
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Boxer-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B8%81%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%9A-2024-300x450.jpg",Boxer นักชกสังเวียนดิบ (2024)
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Boxer-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B8%81%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%9A-2024-300x450.jpg",Boxer นักชกสังเวียนดิบ (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/f99c7e9e6f2cbcf90638b943/f99c7e9e6f2cbcf90638b943.m3u8
 
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Officer-Black-Belt-%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B8%B3-2024-300x450.jpg",เจ้าหน้าที่สายดำ (2024)
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Officer-Black-Belt-%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B8%B3-2024-300x450.jpg",เจ้าหน้าที่สายดำ (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/d3e0192fbcd88d7090a8e91a/d3e0192fbcd88d7090a8e91a.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Romance-in-the-House-300x450.jpg",(2024) บ้านกรุ่นรัก
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Romance-in-the-House-300x450.jpg",(2024) บ้านกรุ่นรัก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/f222b85906d9ed631cafade9/f222b85906d9ed631cafade9.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Outlaw-%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B9%88-2024-300x450.jpg",Outlaw เจ้าแม่ (2024)
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Outlaw-%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B9%88-2024-300x450.jpg",Outlaw เจ้าแม่ (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/2492527afd16cf717160e2ad/2492527afd16cf717160e2ad.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Rez-Ball-%E0%B9%80%E0%B8%A3%E0%B8%8B%E0%B8%9A%E0%B8%AD%E0%B8%A5-2024-300x450.jpg",Rez Ball เรซบอล (2024)
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Rez-Ball-%E0%B9%80%E0%B8%A3%E0%B8%8B%E0%B8%9A%E0%B8%AD%E0%B8%A5-2024-300x450.jpg",Rez Ball เรซบอล (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/664d6ed1f912b4095876f03a/664d6ed1f912b4095876f03a.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Love-Next-Door-300x450.jpg",(2024) รักอยู่ประตูถัดไป
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Love-Next-Door-300x450.jpg",(2024) รักอยู่ประตูถัดไป
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/87cdde6ff65705b0cbd4d19c/87cdde6ff65705b0cbd4d19c.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Incoming-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%AE%E0%B8%AA%E0%B8%81%E0%B8%B9%E0%B8%A5-2024-300x450.jpg",มือใหม่ไฮสกูล (2024)
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Incoming-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%AE%E0%B8%AA%E0%B8%81%E0%B8%B9%E0%B8%A5-2024-300x450.jpg",มือใหม่ไฮสกูล (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/113fbe62869a458769b605db/113fbe62869a458769b605db.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Rebel-Ridge-%E0%B9%80%E0%B8%A3%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%A3%E0%B8%B4%E0%B8%94%E0%B8%88%E0%B9%8C-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1-2024-300x450.jpg",เรเบลริดจ์ ผ่าเมืองอยุติธรรม (2024)
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Rebel-Ridge-%E0%B9%80%E0%B8%A3%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%A3%E0%B8%B4%E0%B8%94%E0%B8%88%E0%B9%8C-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1-2024-300x450.jpg",เรเบลริดจ์ ผ่าเมืองอยุติธรรม (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/fa42b12851ac746b34e96279/fa42b12851ac746b34e96279.m3u8
 
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/The-Goat-Life-2024-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%9E%E0%B8%B0-300x450.jpg",(2024) คนเลี้ยงแพะ
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/The-Goat-Life-2024-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%9E%E0%B8%B0-300x450.jpg",(2024) คนเลี้ยงแพะ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/48d09515d6e2c8b09ed6704d/48d09515d6e2c8b09ed6704d.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/04/Rebel-Moon-Part-Two-The-Scargiver-2024-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%95%E0%B8%B5%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%A0%E0%B8%B2%E0%B8%84-2-300x450.jpg",(2024) Rebel Moon Part Two
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/04/Rebel-Moon-Part-Two-The-Scargiver-2024-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%95%E0%B8%B5%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%A0%E0%B8%B2%E0%B8%84-2-300x450.jpg",(2024) Rebel Moon Part Two
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/c826bc7000f674c32455d809/c826bc7000f674c32455d809.m3u8
 
 
-#EXTINF:-1 group-title="หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/Gyeongseong-Creature-Season-2-2024-%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%8B%E0%B8%AD%E0%B8%87.webp",A- EP.1(2024) สัตว์สยองกยองซอง
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/Gyeongseong-Creature-Season-2-2024-%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%8B%E0%B8%AD%E0%B8%87.webp",A- EP.1(2024) สัตว์สยองกยองซอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/f08a48c7-7bea-42b5-8345-951abe1c763c/index.m3u8
@@ -705,60 +718,60 @@ https://live.lnwplayer.com/hls/f08a48c7-7bea-42b5-8345-951abe1c763c/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="หนังภาพยนตร์" , MONO29
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="🎞️ หนังภาพยนตร์" , MONO29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png" group-title="หนังภาพยนตร์" , Channel 8
+#EXTINF:-1 tvg-logo="http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png" group-title="🎞️ หนังภาพยนตร์" , Channel 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://cdn-th-vip.login.in.th/ch8/ch8/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png" group-title="หนังภาพยนตร์" , TRUE FILM 1
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png" group-title="🎞️ หนังภาพยนตร์" , TRUE FILM 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thai-film.webp" group-title="หนังภาพยนตร์" , TRUE thai FILM
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thai-film.webp" group-title="🎞️ หนังภาพยนตร์" , TRUE thai FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="หนังภาพยนตร์" , CCM
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="🎞️ หนังภาพยนตร์" , CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/89_x_2CkFD4GRmKxdOP0W3T7cuvrMVQs5ypj6.jpg" group-title="หนังภาพยนตร์" , TVB Thai
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/89_x_2CkFD4GRmKxdOP0W3T7cuvrMVQs5ypj6.jpg" group-title="🎞️ หนังภาพยนตร์" , TVB Thai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dHZFEQ_KNZQ/VSK7i3s2XYI/AAAAAAAAB1I/3pcDI7zYv9w/h120/sdmongkol.png" group-title="หนังภาพยนตร์" ,MANGORN
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dHZFEQ_KNZQ/VSK7i3s2XYI/AAAAAAAAB1I/3pcDI7zYv9w/h120/sdmongkol.png" group-title="🎞️ หนังภาพยนตร์" ,MANGORN
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
 
-#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="AXN" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-3.png",AXN
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-id="AXN" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-3.png",AXN
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cd0c92a3-96d1-411b-90c5-ac3f29d86485-profile_image-300x300.png",RED BULL TV
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cd0c92a3-96d1-411b-90c5-ac3f29d86485-profile_image-300x300.png",RED BULL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-logo="https://www.pngitem.com/pimgs/m/221-2217678_hbo-ole-logo-png-transparent-hbo-logo-png.png",HBO EN
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://www.pngitem.com/pimgs/m/221-2217678_hbo-ole-logo-png-transparent-hbo-logo-png.png",HBO EN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8
@@ -774,100 +787,100 @@ https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8
 ###########tvKid######################
 
 
-#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2024/10/Doraemon-the-Movie-Nobitas-Earth-Symphony-%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%99-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B4%E0%B8%A1%E0%B9%82%E0%B8%9F%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%95%E0%B8%B0-2024-189x280.jpg" group-title="หนังการ์ตูน" ,A-โดราเอมอน เดอะ มูฟวี่
+#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2024/10/Doraemon-the-Movie-Nobitas-Earth-Symphony-%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%99-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B4%E0%B8%A1%E0%B9%82%E0%B8%9F%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%95%E0%B8%B0-2024-189x280.jpg" group-title="👦 หนังการ์ตูน" ,A-โดราเอมอน เดอะ มูฟวี่
 #EXTVLCOPT:http-referrer=https://doomovie.online/
 https://ezycdn.com/playlist-u8j2gs0g-master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/09/Transformers-One-%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-1-2024-187x269.jpg" group-title="หนังการ์ตูน" , ทรานส์ฟอร์เมอร์ส 1
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/09/Transformers-One-%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-1-2024-187x269.jpg" group-title="👦 หนังการ์ตูน" , ทรานส์ฟอร์เมอร์ส 1
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/m3u8/21add325dd8a37f5d1838dd1/21add325dd8a37f5d1838dd1168.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/09/Thelma-the-Unicorn-%E0%B8%A2%E0%B8%B9%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%97%E0%B8%A5%E0%B8%A1%E0%B9%88%E0%B8%B2-2024-187x269.jpg" group-title="หนังการ์ตูน" , ยูนิคอร์นน้อยเทลม่า
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/09/Thelma-the-Unicorn-%E0%B8%A2%E0%B8%B9%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%97%E0%B8%A5%E0%B8%A1%E0%B9%88%E0%B8%B2-2024-187x269.jpg" group-title="👦 หนังการ์ตูน" , ยูนิคอร์นน้อยเทลม่า
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/edc968c991bee195b8115189/edc968c991bee195b8115189.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Despicable-Me-4-2024-%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A-%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94-4-1-187x269.jpg" group-title="หนังการ์ตูน" , มิสเตอร์แสบ ร้ายเกินพิกัด 4
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Despicable-Me-4-2024-%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A-%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94-4-1-187x269.jpg" group-title="👦 หนังการ์ตูน" , มิสเตอร์แสบ ร้ายเกินพิกัด 4
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/m3u8/c171dddc932e0022e5373151/c171dddc932e0022e5373151168.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/The-Garfield-Movie-2024-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9F%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-1-187x269.jpg" group-title="หนังการ์ตูน" , มิสเตอร์แสบ ร้ายเกินพิกัด 4
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/The-Garfield-Movie-2024-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9F%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-1-187x269.jpg" group-title="👦 หนังการ์ตูน" , มิสเตอร์แสบ ร้ายเกินพิกัด 4
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/m3u8/aafee061134d6bce1fa38f01/aafee061134d6bce1fa38f01168.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training-2024-%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81-187x269.jpg" group-title="หนังการ์ตูน" , Demon Slayer
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training-2024-%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81-187x269.jpg" group-title="👦 หนังการ์ตูน" , Demon Slayer
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/m3u8/36186c8af74765773a42e37e/36186c8af74765773a42e37e168.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/08/Saving-Bikini-Bottom-The-Sandy-Cheeks-Movie-2024-187x269.jpg" group-title="หนังการ์ตูน" , Saving Bikini Bottom
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/08/Saving-Bikini-Bottom-The-Sandy-Cheeks-Movie-2024-187x269.jpg" group-title="👦 หนังการ์ตูน" , Saving Bikini Bottom
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/m3u8/708af05f09dd62b42394ef3a/708af05f09dd62b42394ef3a168.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/05/IF-2024-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3-1-300x450.jpg" group-title="หนังการ์ตูน" , IF (2024) เพื่อนในจินตนาการ
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/05/IF-2024-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3-1-300x450.jpg" group-title="👦 หนังการ์ตูน" , IF (2024) เพื่อนในจินตนาการ
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/85d2e886f7dec651487675bb/85d2e886f7dec651487675bb.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/03/The-Boy-and-the-Heron-2023-%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%81%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2-300x450.jpg" group-title="หนังการ์ตูน" , The Boy and the Heron
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/03/The-Boy-and-the-Heron-2023-%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%81%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2-300x450.jpg" group-title="👦 หนังการ์ตูน" , The Boy and the Heron
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/fe610bdaf804ded6c473698c/fe610bdaf804ded6c473698c.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/The-Frist-Slam-Dunk-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%9F%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B9%81%E0%B8%A5%E0%B8%A1%E0%B8%94%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C-300x450.jpg" group-title="หนังการ์ตูน" , Slam Dunk
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/The-Frist-Slam-Dunk-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%9F%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B9%81%E0%B8%A5%E0%B8%A1%E0%B8%94%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C-300x450.jpg" group-title="👦 หนังการ์ตูน" , Slam Dunk
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/ee58069434ccb3604c0d6eaa/ee58069434ccb3604c0d6eaa.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/06/Inside-Out-2-2024-%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%A7%E0%B8%87-2-1-300x450.jpg" group-title="หนังการ์ตูน" , Inside Out 2
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/06/Inside-Out-2-2024-%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%A7%E0%B8%87-2-1-300x450.jpg" group-title="👦 หนังการ์ตูน" , Inside Out 2
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/6904556cefce727be869705e/6904556cefce727be869705e.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/06/Detective-Conan-vs-Kid-the-Phantom-Thief-2024-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A7%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99-vs-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%84%E0%B8%B4%E0%B8%94-300x450.jpg" group-title="หนังการ์ตูน" , Conan vs Kid the Phantom
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/06/Detective-Conan-vs-Kid-the-Phantom-Thief-2024-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A7%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99-vs-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%84%E0%B8%B4%E0%B8%94-300x450.jpg" group-title="👦 หนังการ์ตูน" , Conan vs Kid the Phantom
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/c0f415e124182dff9e23b7bc/c0f415e124182dff9e23b7bc.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/06/Mobile-Suit-Gundam-SEED-FREEDOM-2024-1-300x450.jpg" group-title="หนังการ์ตูน" , Gundam SEED FREEDOM
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/06/Mobile-Suit-Gundam-SEED-FREEDOM-2024-1-300x450.jpg" group-title="👦 หนังการ์ตูน" , Gundam SEED FREEDOM
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/22ad4686a94239d5538e48cb/22ad4686a94239d5538e48cb.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/04/Kung-Fu-Panda-4-2024-%E0%B8%81%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%B9%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2-4-300x450.jpg" group-title="หนังการ์ตูน" , Kung Fu Panda 4 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/04/Kung-Fu-Panda-4-2024-%E0%B8%81%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%B9%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2-4-300x450.jpg" group-title="👦 หนังการ์ตูน" , Kung Fu Panda 4 
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/946eb89924236cf4aa706a05/946eb89924236cf4aa706a05.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/03/Shin-Jigen-Crayon-Shin-chan-the-Movie-2023-%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%87-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%8B%E0%B8%B8%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%8B%E0%B8%B9%E0%B8%8A%E0%B8%B4%E0%B9%80%E0%B8%AB%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%AB%E0%B8%B2-300x450.jpg" group-title="หนังการ์ตูน" , Shin-chan the Movie
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/03/Shin-Jigen-Crayon-Shin-chan-the-Movie-2023-%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%87-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%8B%E0%B8%B8%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%8B%E0%B8%B9%E0%B8%8A%E0%B8%B4%E0%B9%80%E0%B8%AB%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%AB%E0%B8%B2-300x450.jpg" group-title="👦 หนังการ์ตูน" , Shin-chan the Movie
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/485aeebdbd05eaf96de3d027/485aeebdbd05eaf96de3d027.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/04/Hunter-X-Hunter-Phantom-Rouge-2013-%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-x-%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2-300x450.jpg" group-title="หนังการ์ตูน" , Hunter X Hunter
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/04/Hunter-X-Hunter-Phantom-Rouge-2013-%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-x-%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2-300x450.jpg" group-title="👦 หนังการ์ตูน" , Hunter X Hunter
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/bbe3f66f9aa7e29bd112b1f8/bbe3f66f9aa7e29bd112b1f8.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/10/Dragon-Ball-Super-Super-Hero-%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88-300x450.png" group-title="หนังการ์ตูน" ,Dragon Ball Super
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/10/Dragon-Ball-Super-Super-Hero-%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88-300x450.png" group-title="👦 หนังการ์ตูน" ,Dragon Ball Super
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/fc074838f1ba52f895c0bd59/fc074838f1ba52f895c0bd59.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/08/One-Piece-Film-Red-300x450.png" group-title="หนังการ์ตูน" ,One Piece Film Red
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/08/One-Piece-Film-Red-300x450.png" group-title="👦 หนังการ์ตูน" ,One Piece Film Red
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/c0582c139ee1682aa6c9a3fc/c0582c139ee1682aa6c9a3fc.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2020/02/Doraemon-Nobitas-Chronicle-of-the-Moon-Exploration-2019-%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%95%E0%B8%B0%E0%B8%AA%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2-300x450.png" group-title="หนังการ์ตูน" ,Doraemon Nobita
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2020/02/Doraemon-Nobitas-Chronicle-of-the-Moon-Exploration-2019-%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%95%E0%B8%B0%E0%B8%AA%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2-300x450.png" group-title="👦 หนังการ์ตูน" ,Doraemon Nobita
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://hot.24playerhd.com/autoplaylist/e5740646a27a2b1e5bbcc8ce9b6a143a/e5740646a27a2b1e5bbcc8ce9b6a143a.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/The-Bad-Guys-Haunted-Heist-2024-%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%94%E0%B8%B5-%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99.webp" group-title="หนังการ์ตูน" ,วายร้ายพันธุ์ดี: ปล้นป่วนฮาโลวีน
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/The-Bad-Guys-Haunted-Heist-2024-%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%94%E0%B8%B5-%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99.webp" group-title="👦 หนังการ์ตูน" ,วายร้ายพันธุ์ดี: ปล้นป่วนฮาโลวีน
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://live.lnwplayer.com/hls/10d27438-3f5c-4360-b0a2-559106ebc885/index.m3u8
 
@@ -880,57 +893,57 @@ https://live.lnwplayer.com/hls/10d27438-3f5c-4360-b0a2-559106ebc885/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/โลโก้_การ์ตูนคลับแชนแนล.jpg" group-title="🧚 ‍การ์ตูนทีวี",Cartoon Club
+#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/โลโก้_การ์ตูนคลับแชนแนล.jpg" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Cartoon Club
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/a7bc88190919625.Y3JvcCw4MTAsNjMzLDAsMA.png" group-title="🧚 ‍การ์ตูนทีวี",Zoomoon
+#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/a7bc88190919625.Y3JvcCw4MTAsNjMzLDAsMA.png" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Zoomoon
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" tvg-logo="https://i.imgur.com/8VTfjI6.png" group-title="🧚 ‍การ์ตูนทีวี",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" tvg-logo="https://i.imgur.com/8VTfjI6.png" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",Cartoon Network
 http://iptvh.it/cartoonnet.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Attv" tvg-logo="https://www.i-pic.info/i/HcyW361033.jpg" group-title="🧚 ‍การ์ตูนทีวี",TvATTV
+#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Attv" tvg-logo="https://www.i-pic.info/i/HcyW361033.jpg" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี",TvATTV
 http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="🧚 ‍การ์ตูนทีวี" tvg-logo="https://img2.pic.in.th/pic/1975431545962dd2e.jpeg",PBS KIDS
+#EXTINF:-1 group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://img2.pic.in.th/pic/1975431545962dd2e.jpeg",PBS KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 group-title="🧚 ‍การ์ตูนทีวี" tvg-logo="https://moviektu.com/news/logotv/cartoon/animax.png",Z- ANIMAX
+#EXTINF:-1 group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://moviektu.com/news/logotv/cartoon/animax.png",Z- ANIMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8?
 
 
 
-#EXTINF:0 tvg-id="happykids"  group-title="🧚 ‍การ์ตูนทีวี" tvg-logo="https://i.ibb.co/4Y4yxZq/Happy-Kids.png",Happy Kids
+#EXTINF:0 tvg-id="happykids"  group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://i.ibb.co/4Y4yxZq/Happy-Kids.png",Happy Kids
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://oipf0znpmnliv.vcdn.cloud/hls/happykid/index.m3u8
 
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 #https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?
 
-#EXTINF:0 tvg-id="cbeebies" group-title="🧚 ‍การ์ตูนทีวี" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies
+#EXTINF:0 tvg-id="cbeebies" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies
 #https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 
-#EXTINF:0 tvg-id="babytvhd" group-title="🧚 ‍การ์ตูนทีวี" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",Baby TV
+#EXTINF:0 tvg-id="babytvhd" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",Baby TV
 
-#EXTINF:0 tvg-id="boomerang" group-title="🧚 ‍การ์ตูนทีวี" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Boomerang_2000_Alt_2.svg/revision/latest/top-crop/width/300/height/300?cb=20160522194334",Boomerang
+#EXTINF:0 tvg-id="boomerang" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Boomerang_2000_Alt_2.svg/revision/latest/top-crop/width/300/height/300?cb=20160522194334",Boomerang
 
-#EXTINF:0 tvg-id="cartoonhd" group-title="🧚 ‍การ์ตูนทีวี" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+#EXTINF:0 tvg-id="cartoonhd" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
-#EXTINF:0 tvg-id="dreamworks" group-title="🧚 ‍การ์ตูนทีวี" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/4/4b/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg_%282016%29.png/revision/latest/top-crop/width/360/height/360?cb=20171127143327",DreamWorks
+#EXTINF:0 tvg-id="dreamworks" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/4/4b/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg_%282016%29.png/revision/latest/top-crop/width/360/height/360?cb=20171127143327",DreamWorks
 http://antm.dynu.net:14285/rtp/232.84.3.59:11698
 
-#EXTINF:0 type="stream" group-title="🧚 ‍การ์ตูนทีวี" tvg-id="pbskids" tvg-logo="https://i.ibb.co/r09Gfwy/cckidstv.png",Kids TV
+#EXTINF:0 type="stream" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-id="pbskids" tvg-logo="https://i.ibb.co/r09Gfwy/cckidstv.png",Kids TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/8bdab347-30fe-4eea-a9bd-4b89b8ea462e/2.m3u8 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
-#EXTINF:0 type="stream" group-title="🧚 ‍การ์ตูนทีวี" tvg-id="pbskids" tvg-logo="https://i.ibb.co/71h2JvS/ccpbskids.webp",PBS Kids
+#EXTINF:0 type="stream" group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-id="pbskids" tvg-logo="https://i.ibb.co/71h2JvS/ccpbskids.webp",PBS Kids
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
@@ -946,88 +959,88 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 
 
 
-#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/07/E-San-Love-Story-2017-%E0%B8%AA%E0%B9%88%E0%B8%A1-%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99-300x450.jpg",AA-A ส่ม ภัค เสี่ยน
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/07/E-San-Love-Story-2017-%E0%B8%AA%E0%B9%88%E0%B8%A1-%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99-300x450.jpg",AA-A ส่ม ภัค เสี่ยน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/42a706cd67e0d7dae8993ebd/42a706cd67e0d7dae8993ebd.m3u8
 
-#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Kung-Fu-Tootsie-2007-%E0%B8%95%E0%B8%B1%E0%B9%8A%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%9F%E0%B8%B8%E0%B8%94-1-300x450.jpg",AA-A ตั๊ดสู้ฟุด
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Kung-Fu-Tootsie-2007-%E0%B8%95%E0%B8%B1%E0%B9%8A%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%9F%E0%B8%B8%E0%B8%94-1-300x450.jpg",AA-A ตั๊ดสู้ฟุด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/f29113a630a9f2f015c05e1a/f29113a630a9f2f015c05e1a.m3u8
 
 
-#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Ror-Door-Khao-Chon-Pee-2015-%E0%B8%A3%E0%B8%94.%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B8%9C%E0%B8%B5-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B9%84%E0%B8%81%E0%B9%88-1-187x269.jpg",A-รด.เขาชนผี ที่เขาชนไก่
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Ror-Door-Khao-Chon-Pee-2015-%E0%B8%A3%E0%B8%94.%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B8%9C%E0%B8%B5-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B9%84%E0%B8%81%E0%B9%88-1-187x269.jpg",A-รด.เขาชนผี ที่เขาชนไก่
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/6123d5bbc11edf4fcf2b86db/6123d5bbc11edf4fcf2b86db.m3u8
 
 
-#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Zombieland-2009-%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89-187x269.jpg",A-ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Zombieland-2009-%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89-187x269.jpg",A-ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/2d754362e1d50e1dcb8856e3/2d754362e1d50e1dcb8856e3.m3u8
 
 
-#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Shaun-of-the-Dead-2004-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%87-187x269.jpg",A-รุ่งอรุณแห่งความวาย(ป่วง)
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Shaun-of-the-Dead-2004-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%87-187x269.jpg",A-รุ่งอรุณแห่งความวาย(ป่วง)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/52d2a0282dc05d6e88bd27c4/52d2a0282dc05d6e88bd27c4.m3u8
 
 
-#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024-%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A5-%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%8B%E0%B8%AD%E0%B8%9F%E0%B8%95%E0%B9%8C-%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C-1-187x269.jpg",A- เดี่ยวสเปเชียล ซูเปอร์ ซอฟต์ พาว
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024-%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A5-%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%8B%E0%B8%AD%E0%B8%9F%E0%B8%95%E0%B9%8C-%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C-1-187x269.jpg",A- เดี่ยวสเปเชียล ซูเปอร์ ซอฟต์ พาว
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/4f505d9fad9c97e211e0bf56/4f505d9fad9c97e211e0bf56.m3u8
 
 
-#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Johnny-English-Strikes-Again-%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88-%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%B4%E0%B8%8A-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81-%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99-2018-187x269.jpg",A- พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Johnny-English-Strikes-Again-%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88-%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%B4%E0%B8%8A-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81-%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99-2018-187x269.jpg",A- พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/bec96a8e813949f6b32d385d/bec96a8e813949f6b32d385d.m3u8
 
 
-#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Detective-Chinatown-2-2018-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81-2-187x269.jpg",A- แก๊งม่วนป่วนนิวยอร์ก 2
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Detective-Chinatown-2-2018-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81-2-187x269.jpg",A- แก๊งม่วนป่วนนิวยอร์ก 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/73ce7aa7275554f31fc6991e/73ce7aa7275554f31fc6991e.m3u8
 
 
-#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Superhero-Movie-2008-%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%9B%E0%B8%AD%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%8B%E0%B8%B8%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7-187x269.jpg",A- ไอ้แมงปอแมน ฮีโร่ซุปเปอร์รั่ว
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Superhero-Movie-2008-%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%9B%E0%B8%AD%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%8B%E0%B8%B8%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7-187x269.jpg",A- ไอ้แมงปอแมน ฮีโร่ซุปเปอร์รั่ว
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://doomovie.online/
 https://ezycdn.com/playlist-58igvist-master.m3u8
 
 
-#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://doomovie.online/wp-content/uploads/2023/11/%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99-%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2-Congrats-My-Ex-2023-187x280.jpg",A- ลุ้นรักป่วน ก๊วนแฟนเก่า
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://doomovie.online/wp-content/uploads/2023/11/%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99-%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2-Congrats-My-Ex-2023-187x280.jpg",A- ลุ้นรักป่วน ก๊วนแฟนเก่า
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://doomovie.online/
 https://ezycdn.com/playlist-fu5eps0l-master.m3u8
 
-#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Kung-Fu-Hustle-2004-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%94%E0%B8%B2-187x269.jpg",A- คนเล็กหมัดเทวดา
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Kung-Fu-Hustle-2004-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%94%E0%B8%B2-187x269.jpg",A- คนเล็กหมัดเทวดา
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/ed5478f472553e9074c007cb/ed5478f472553e9074c007cb.m3u8
 
-#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Shaolin-Soccer-2001-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B8%A2%E0%B8%B5%E0%B9%88-187x269.jpg",A- นักเตะเสี้ยวลิ้มยี่
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Shaolin-Soccer-2001-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B8%A2%E0%B8%B5%E0%B9%88-187x269.jpg",A- นักเตะเสี้ยวลิ้มยี่
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/6753a74247753c2a3e94a5d0/6753a74247753c2a3e94a5d0.m3u8
 
 
-#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Pee-Mak-2013-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B2%E0%B8%81-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%82%E0%B8%99%E0%B8%87-187x269.jpg",A- พี่มาก พระโขนง
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Pee-Mak-2013-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B2%E0%B8%81-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%82%E0%B8%99%E0%B8%87-187x269.jpg",A- พี่มาก พระโขนง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/d91ef4897a94001f8ea3241f/d91ef4897a94001f8ea3241f.m3u8
 
 
-#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/My-Boss-My-Hero-2001-%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD-187x269.jpg",A- สั่งเจ้าพ่อไปเรียนหนังสือ
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/My-Boss-My-Hero-2001-%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD-187x269.jpg",A- สั่งเจ้าพ่อไปเรียนหนังสือ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/396d612099ac4b5a3fe4300b/396d612099ac4b5a3fe4300b.m3u8
 
 
-#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/22-Jump-Street-2014-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2-187x269.jpg",A- สายลับรั่วป่วนมหาลัย
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/22-Jump-Street-2014-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2-187x269.jpg",A- สายลับรั่วป่วนมหาลัย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/5b1c361a951324cfc33705dd/5b1c361a951324cfc33705dd.m3u8
@@ -1045,50 +1058,50 @@ https://main.24playerhd.com/newplaylist/5b1c361a951324cfc33705dd/5b1c361a951324c
 ##############cina mov#######################
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/08/Nezha-Demon-Child-is-Back-2024-%E0%B8%99%E0%B8%B2%E0%B8%88%E0%B8%B2-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88-1-187x269.jpg" group-title="หนังจีน" ,นาจา (2024) Sound Track
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/08/Nezha-Demon-Child-is-Back-2024-%E0%B8%99%E0%B8%B2%E0%B8%88%E0%B8%B2-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88-1-187x269.jpg" group-title="🚩 ดูหนังจีน China" ,นาจา (2024) Sound Track
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/ea37609f4c0819f771174e6f/ea37609f4c0819f771174e6f.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/08/King-Kong-Return-2024-%E0%B8%97%E0%B8%A7%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B8%AD%E0%B8%87-1-187x269.jpg" group-title="หนังจีน" ,ราชันย์คิงคอง (2024) Sound Track
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/08/King-Kong-Return-2024-%E0%B8%97%E0%B8%A7%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B8%AD%E0%B8%87-1-187x269.jpg" group-title="🚩 ดูหนังจีน China" ,ราชันย์คิงคอง (2024) Sound Track
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/f21752490071ada20466dbe5/f21752490071ada20466dbe5.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/08/Detective-Dee-and-The-Punished-Swellhea-2024-%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B9%8B%E0%B8%A2-%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B8%A2%E0%B8%AD%E0%B8%87-1-187x269.jpg" group-title="หนังจีน" ,ตี๋เหรินเจี๋ย (2024) Sound Track
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/08/Detective-Dee-and-The-Punished-Swellhea-2024-%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B9%8B%E0%B8%A2-%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B8%A2%E0%B8%AD%E0%B8%87-1-187x269.jpg" group-title="🚩 ดูหนังจีน China" ,ตี๋เหรินเจี๋ย (2024) Sound Track
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/7d6b634b542401a11e01b322/7d6b634b542401a11e01b322.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Brotherhood-of-Blades-2014-187x269.jpg" group-title="หนังจีน" ,มังกรพยัคฆ์ 
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Brotherhood-of-Blades-2014-187x269.jpg" group-title="🚩 ดูหนังจีน China" ,มังกรพยัคฆ์ 
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/6b13613d7b01e267a5629479/6b13613d7b01e267a5629479.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/The-First-Myth-Clash-of-Gods-2021-%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%8A%E0%B8%B0%E0%B8%95%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-1-187x269.jpg" group-title="หนังจีน" ,ศึกตัดสินชะตาหมื่นเซียน
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/The-First-Myth-Clash-of-Gods-2021-%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%8A%E0%B8%B0%E0%B8%95%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-1-187x269.jpg" group-title="🚩 ดูหนังจีน China" ,ศึกตัดสินชะตาหมื่นเซียน
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/1127f4bf53877d4aa72373ff/1127f4bf53877d4aa72373ff.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2023-%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%9F%E0%B9%89%E0%B8%B2-187x269.jpg" group-title="หนังจีน" ,สัประยุทธ์ทะลุฟ้า
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2023-%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%9F%E0%B9%89%E0%B8%B2-187x269.jpg" group-title="🚩 ดูหนังจีน China" ,สัประยุทธ์ทะลุฟ้า
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/7728de52198f5a623feb14c9/7728de52198f5a623feb14c9.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Swords-Drawn-2024-%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%8B%E0%B8%B2%E0%B8%99-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A7%E0%B8%99%E0%B8%84%E0%B8%B7%E0%B8%99-187x269.jpg" group-title="หนังจีน" ,ตำนานสู่ซาน
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Swords-Drawn-2024-%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%8B%E0%B8%B2%E0%B8%99-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A7%E0%B8%99%E0%B8%84%E0%B8%B7%E0%B8%99-187x269.jpg" group-title="🚩 ดูหนังจีน China" ,ตำนานสู่ซาน
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/96c247899fc77c6ed58a5bdc/96c247899fc77c6ed58a5bdc.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Eye-for-an-Eye-2022-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%99-187x269.jpg" group-title="หนังจีน" ,A- ยอดกระบี่ไร้เทียมทาน
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Eye-for-an-Eye-2022-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%99-187x269.jpg" group-title="🚩 ดูหนังจีน China" ,A- ยอดกระบี่ไร้เทียมทาน
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/d891be42b975cbed6ebfda8d/d891be42b975cbed6ebfda8d.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Chinese-Zodiac-2012-%E0%B8%A7%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99-%E0%B8%9F%E0%B8%B1%E0%B8%94-187x269.jpg" group-title="หนังจีน" ,A- วิ่ง ปล้น ฟัด
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Chinese-Zodiac-2012-%E0%B8%A7%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99-%E0%B8%9F%E0%B8%B1%E0%B8%94-187x269.jpg" group-title="🚩 ดูหนังจีน China" ,A- วิ่ง ปล้น ฟัด
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/e2976db54c33092f4b504e64/e2976db54c33092f4b504e64.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Coffin-Mountain-Ancient-Tomb-2022-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%82%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%93-187x269.jpg" group-title="หนังจีน" ,A- ล่าขุมทรัพย์ สุสานโบราณ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Coffin-Mountain-Ancient-Tomb-2022-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%82%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%93-187x269.jpg" group-title="🚩 ดูหนังจีน China" ,A- ล่าขุมทรัพย์ สุสานโบราณ
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/4e74e53f371b0fb7b1163833/4e74e53f371b0fb7b1163833.m3u8
 
@@ -1103,91 +1116,91 @@ https://main.24playerhd.com/newplaylist/4e74e53f371b0fb7b1163833/4e74e53f371b0fb
 ###########tv Sex######################
 
 
-#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2019/07/833.jpg" group-title="หนังเรทอาร์ 18+ " , A-3D Sex and Zen
+#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2019/07/833.jpg" group-title="🔞 หนังเรทอาร์ 18+ " , A-3D Sex and Zen
 #EXTVLCOPT:http-referrer=https://doomovie.online/
 https://main.24playerhd.com/newplaylist/8971af64a359c7273cbe04c4/8971af64a359c7273cbe04c4.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/10/Jan-Dara-2001-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2-300x450.png" group-title="หนังเรทอาร์ 18+ " , A-Jan Dara
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/10/Jan-Dara-2001-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2-300x450.png" group-title="🔞 หนังเรทอาร์ 18+ " , A-Jan Dara
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/8971af64a359c7273cbe04c4/8971af64a359c7273cbe04c4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/07/The-Intimate-2005-%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.jpg" group-title="หนังเรทอาร์ 18+ " ,A- The Intimate
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/07/The-Intimate-2005-%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.jpg" group-title="🔞 หนังเรทอาร์ 18+ " ,A- The Intimate
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/2ac5f71b6c5707e2e7640dea/2ac5f71b6c5707e2e7640dea.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/04/In-The-Room-2015-%E0%B8%AA%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.png" group-title="หนังเรทอาร์ 18+ " ,A- In The Room
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/04/In-The-Room-2015-%E0%B8%AA%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.png" group-title="🔞 หนังเรทอาร์ 18+ " ,A- In The Room
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/90904342572e708a84cb0b0d/90904342572e708a84cb0b0d.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/10/My-Sexdoll-2020-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B8%E0%B8%81-%E0%B8%A2%E0%B8%B1%E0%B8%A2%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.png" group-title="หนังเรทอาร์ 18+ " ,A- My Sexdoll 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/10/My-Sexdoll-2020-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B8%E0%B8%81-%E0%B8%A2%E0%B8%B1%E0%B8%A2%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.png" group-title="🔞 หนังเรทอาร์ 18+ " ,A- My Sexdoll 
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/2a28ad287cbb8770b68da0f3/2a28ad287cbb8770b68da0f3.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/03/A-Tale-Of-Legendary-Libido-2008-300x450.png" group-title="หนังเรทอาร์ 18+ " ,A-A Tale Of Legendary Libido
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/03/A-Tale-Of-Legendary-Libido-2008-300x450.png" group-title="🔞 หนังเรทอาร์ 18+ " ,A-A Tale Of Legendary Libido
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/a9e966648adcce2d8efa5ac0/a9e966648adcce2d8efa5ac0.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/03/Cashback-2006-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3-300x450.jpg" group-title="หนังเรทอาร์ 18+ " ,A-Cashback
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/03/Cashback-2006-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3-300x450.jpg" group-title="🔞 หนังเรทอาร์ 18+ " ,A-Cashback
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/53f9c147ae585d529495cc7a/53f9c147ae585d529495cc7a.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2020/02/Sleeping-Beauty-2011-%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%83%E0%B8%AB%E0%B8%A5-300x450.png" group-title="หนังเรทอาร์ 18+ " ,A-Sleeping Beauty
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2020/02/Sleeping-Beauty-2011-%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%83%E0%B8%AB%E0%B8%A5-300x450.png" group-title="🔞 หนังเรทอาร์ 18+ " ,A-Sleeping Beauty
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/7bf644d99a401a6c3010e0c2bc2374cf/7bf644d99a401a6c3010e0c2bc2374cf.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/01/The-Concubine-2012-%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%87-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94-300x450.png" group-title="หนังเรทอาร์ 18+ " ,A-The Concubine
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/01/The-Concubine-2012-%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%87-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94-300x450.png" group-title="🔞 หนังเรทอาร์ 18+ " ,A-The Concubine
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/bfc6549d08745cea560646fcf5df1157/bfc6549d08745cea560646fcf5df1157.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/01/Eternity-2010-%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%A2-300x450.png" group-title="หนังเรทอาร์ 18+ " ,A-Eternity
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/01/Eternity-2010-%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%A2-300x450.png" group-title="🔞 หนังเรทอาร์ 18+ " ,A-Eternity
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/293853aef41cbd71af5ea4818fcf3f52/293853aef41cbd71af5ea4818fcf3f52.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/05/American-Pie-3-American-Wedding-2003-%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B9%81%E0%B8%AD%E0%B9%89%E0%B8%A1%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8C-300x450.png" group-title="หนังเรทอาร์ 18+ " ,A-American Pie 3
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/05/American-Pie-3-American-Wedding-2003-%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B9%81%E0%B8%AD%E0%B9%89%E0%B8%A1%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8C-300x450.png" group-title="🔞 หนังเรทอาร์ 18+ " ,A-American Pie 3
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/fbb9a4ea27fc6cf27bec9da5a9b22897/fbb9a4ea27fc6cf27bec9da5a9b22897.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/03/Room-in-Rome-2010-%E0%B9%83%E0%B8%99%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%82%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81-300x450.jpg" group-title="หนังเรทอาร์ 18+ " ,A-Room in Rome
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/03/Room-in-Rome-2010-%E0%B9%83%E0%B8%99%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%82%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81-300x450.jpg" group-title="🔞 หนังเรทอาร์ 18+ " ,A-Room in Rome
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/25b89e34169d4ba5ad90e695/25b89e34169d4ba5ad90e695.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Maebia-2015-%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2-187x269.jpg" group-title="หนังเรทอาร์ 18+ " , B-Maebia
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Maebia-2015-%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2-187x269.jpg" group-title="🔞 หนังเรทอาร์ 18+ " , B-Maebia
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/8b44645699bca916f1599dee/8b44645699bca916f1599dee.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/My-Sexdoll-2020-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B8%E0%B8%81-%E0%B8%A2%E0%B8%B1%E0%B8%A2%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81-187x269.jpg" group-title="หนังเรทอาร์ 18+ " , B-My Sexdoll
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/My-Sexdoll-2020-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B8%E0%B8%81-%E0%B8%A2%E0%B8%B1%E0%B8%A2%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81-187x269.jpg" group-title="🔞 หนังเรทอาร์ 18+ " , B-My Sexdoll
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/8d628bd812e13015041b0c78/8d628bd812e13015041b0c78.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Portrait-of-A-Beauty-2008-187x269.jpg" group-title="หนังเรทอาร์ 18+ " , B-Portrait of A Beauty
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Portrait-of-A-Beauty-2008-187x269.jpg" group-title="🔞 หนังเรทอาร์ 18+ " , B-Portrait of A Beauty
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/03ded747039f72c5aba59f7d/03ded747039f72c5aba59f7d.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Fifty-Shades-Freed-2018-187x269.jpg" group-title="หนังเรทอาร์ 18+ " , B-Fifty Shades Freed
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Fifty-Shades-Freed-2018-187x269.jpg" group-title="🔞 หนังเรทอาร์ 18+ " , B-Fifty Shades Freed
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/f99009110b30d6f37f105181/f99009110b30d6f37f105181.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Student-Services-2010-%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%95-187x269.jpg" group-title="หนังเรทอาร์ 18+ " , B-Student Services
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Student-Services-2010-%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%95-187x269.jpg" group-title="🔞 หนังเรทอาร์ 18+ " , B-Student Services
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/e8121ed4bf0bf3aef1e302e1/e8121ed4bf0bf3aef1e302e1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Sex-Is-Zero-2002-%E0%B8%9B%E0%B8%B4%E0%B9%8A%E0%B8%94-%E0%B8%9B%E0%B8%B5%E0%B9%89-%E0%B8%9B%E0%B8%B4%E0%B9%8A%E0%B8%94-%E0%B8%A2%E0%B8%81%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99-%E0%B8%81%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A7-187x269.jpg" group-title="หนังเรทอาร์ 18+ " , B-Sex Is Zero
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Sex-Is-Zero-2002-%E0%B8%9B%E0%B8%B4%E0%B9%8A%E0%B8%94-%E0%B8%9B%E0%B8%B5%E0%B9%89-%E0%B8%9B%E0%B8%B4%E0%B9%8A%E0%B8%94-%E0%B8%A2%E0%B8%81%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99-%E0%B8%81%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A7-187x269.jpg" group-title="🔞 หนังเรทอาร์ 18+ " , B-Sex Is Zero
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/ec6b2eb9eb15764849bad1e6/ec6b2eb9eb15764849bad1e6.m3u8
 
@@ -1195,132 +1208,132 @@ https://main.24playerhd.com/newplaylist/ec6b2eb9eb15764849bad1e6/ec6b2eb9eb15764
 
 
 
-#EXTINF:-1 tvg-logo="https://img2.javmost.com/file_image/WAAA-426-UNCENSORED-LEAK.jpg" group-title="หนังเรทอาร์ 18+ " , WAAA-426
+#EXTINF:-1 tvg-logo="https://img2.javmost.com/file_image/WAAA-426-UNCENSORED-LEAK.jpg" group-title="🔞 หนังเรทอาร์ 18+ " , WAAA-426
 #EXTVLCOPT:http-referrer=https://www5.javmost.com/
 https://cdn1.turboviplay.com/data2/66fd385b4b8d4/66fd385b4b8d4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img2.javmost.com/file_image/VENZ-019-UNCENSORED-LEAK.jpg" group-title="หนังเรทอาร์ 18+ " , VENZ-019
+#EXTINF:-1 tvg-logo="https://img2.javmost.com/file_image/VENZ-019-UNCENSORED-LEAK.jpg" group-title="🔞 หนังเรทอาร์ 18+ " , VENZ-019
 #EXTVLCOPT:http-referrer=https://www5.javmost.com/
 https://cdn1.turboviplay.com/data2/66fd3800d6e3d/66fd3800d6e3d.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img2.javmost.com/file_image/YUJ-024-UNCENSORED-LEAK.jpg" group-title="หนังเรทอาร์ 18+ " , YUJ-024
+#EXTINF:-1 tvg-logo="https://img2.javmost.com/file_image/YUJ-024-UNCENSORED-LEAK.jpg" group-title="🔞 หนังเรทอาร์ 18+ " , YUJ-024
 #EXTVLCOPT:http-referrer=https://www5.javmost.com/
 https://cdn1.turboviplay.com/data2/66fd38b5b490c/66fd38b5b490c.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://javtip24.com/wp-content/uploads/2024/10/DLDSS-344_full_cover.webp" group-title="หนังเรทอาร์ 18+ " , DLDSS-344
+#EXTINF:-1 tvg-logo="https://javtip24.com/wp-content/uploads/2024/10/DLDSS-344_full_cover.webp" group-title="🔞 หนังเรทอาร์ 18+ " , DLDSS-344
 #EXTVLCOPT:http-referrer=https://www5.javmost.com/
 https://cdn1.turboviplay.com/data1/66f528fedb464/66f528fedb464.m3u8
 
-#EXTINF:-1 tvg-logo="https://javtip24.com/wp-content/uploads/2024/10/ABF-154_full_cover.webp" group-title="หนังเรทอาร์ 18+ " , Z-X ABF-154
+#EXTINF:-1 tvg-logo="https://javtip24.com/wp-content/uploads/2024/10/ABF-154_full_cover.webp" group-title="🔞 หนังเรทอาร์ 18+ " , Z-X ABF-154
 #EXTVLCOPT:http-referrer=https://www5.javmost.com/
 https://cdn1.turboviplay.com/data1/66f7cac1ba66c/66f7cac1ba66c720.m3u8
 
-#EXTINF:-1 tvg-logo="https://javtip24.com/wp-content/uploads/2024/10/START-147_full_cover.webp" group-title="หนังเรทอาร์ 18+ " , START-147
+#EXTINF:-1 tvg-logo="https://javtip24.com/wp-content/uploads/2024/10/START-147_full_cover.webp" group-title="🔞 หนังเรทอาร์ 18+ " , START-147
 #EXTVLCOPT:http-referrer=https://www5.javmost.com/
 https://cdn1.turboviplay.com/data2/66fb46311861c/66fb46311861c.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://javtip24.com/wp-content/uploads/2024/10/CLUB-852_full_cover.webp" group-title="หนังเรทอาร์ 18+ " , CLUB-852
+#EXTINF:-1 tvg-logo="https://javtip24.com/wp-content/uploads/2024/10/CLUB-852_full_cover.webp" group-title="🔞 หนังเรทอาร์ 18+ " , CLUB-852
 #EXTVLCOPT:http-referrer=https://www5.javmost.com/
 https://cdn1.turboviplay.com/data1/66f624a216502/66f624a216502720.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img3.javmost.com/images/SONE-248-UNCENSORED-LEAK.webp" group-title="หนังเรทอาร์ 18+ " , SONE-248
+#EXTINF:-1 tvg-logo="https://img3.javmost.com/images/SONE-248-UNCENSORED-LEAK.webp" group-title="🔞 หนังเรทอาร์ 18+ " , SONE-248
 #EXTVLCOPT:http-referrer=https://www5.javmost.com/
 https://cdn1.turboviplay.com/data1/668a8cc777d50/668a8cc777d50720.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://javtip24.com/wp-content/uploads/2024/10/ATID-606_full_cover.webp" group-title="หนังเรทอาร์ 18+ " , Z-X ATID-606
+#EXTINF:-1 tvg-logo="https://javtip24.com/wp-content/uploads/2024/10/ATID-606_full_cover.webp" group-title="🔞 หนังเรทอาร์ 18+ " , Z-X ATID-606
 #EXTVLCOPT:http-referrer=https://www5.javmost.com/
 https://cdn1.turboviplay.com/data2/66fbdfdfc25af/66fbdfdfc25af.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://javtip24.com/wp-content/uploads/2024/10/AUKG-607_full_cover.webp" group-title="หนังเรทอาร์ 18+ " ,Z-X AUKG-607
+#EXTINF:-1 tvg-logo="https://javtip24.com/wp-content/uploads/2024/10/AUKG-607_full_cover.webp" group-title="🔞 หนังเรทอาร์ 18+ " ,Z-X AUKG-607
 #EXTVLCOPT:http-referrer=https://www5.javmost.com/
 https://cdn1.turboviplay.com/data1/66f760c33d0d4/66f760c33d0d4720.m3u8
 
-#EXTINF:-1 tvg-logo="https://img3.javmost.com/images/AUKG-584-UNCENSORED-LEAK.webp" group-title="หนังเรทอาร์ 18+ " , Z-X AUKG-584
+#EXTINF:-1 tvg-logo="https://img3.javmost.com/images/AUKG-584-UNCENSORED-LEAK.webp" group-title="🔞 หนังเรทอาร์ 18+ " , Z-X AUKG-584
 #EXTVLCOPT:http-referrer=https://www5.javmost.com/
 https://cdn1.turboviplay.com/data2/uidPLnNYJotF79dYKp9S/uidPLnNYJotF79dYKp9S.m3u8
 
-#EXTINF:-1 tvg-logo="https://img3.javmost.com/images/MOPT-030.webp" group-title="หนังเรทอาร์ 18+ " , MOPT-030
+#EXTINF:-1 tvg-logo="https://img3.javmost.com/images/MOPT-030.webp" group-title="🔞 หนังเรทอาร์ 18+ " , MOPT-030
 #EXTVLCOPT:http-referrer=https://www5.javmost.com/
 https://cdn1.turboviplay.com/data/14YhdaQpEXDZ0Yr4LF7i/14YhdaQpEXDZ0Yr4LF7i.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img3.javmost.com/images/KATU-108-UNCENSORED-LEAK.webp" group-title="หนังเรทอาร์ 18+ " , KATU-108
+#EXTINF:-1 tvg-logo="https://img3.javmost.com/images/KATU-108-UNCENSORED-LEAK.webp" group-title="🔞 หนังเรทอาร์ 18+ " , KATU-108
 #EXTVLCOPT:http-referrer=https://www5.javmost.com/
 https://cdn1.turboviplay.com/data1/6689fe9c8e080/6689fe9c8e080720.m3u8
 
-#EXTINF:-1 tvg-logo="https://img3.javmost.com/images/AUKG-595.webp" group-title="หนังเรทอาร์ 18+ " ,Z-X AUKG-595
+#EXTINF:-1 tvg-logo="https://img3.javmost.com/images/AUKG-595.webp" group-title="🔞 หนังเรทอาร์ 18+ " ,Z-X AUKG-595
 #EXTVLCOPT:http-referrer=https://www5.javmost.com/
 https://cdn1.turboviplay.com/data2/hoPyu4SGDUezEwTZGRoX/hoPyu4SGDUezEwTZGRoX.m3u8
 
-#EXTINF:-1 tvg-logo="https://av24flix.s3.ap-southeast-1.amazonaws.com/preview/1675506738136meyd624pl.jpg" group-title="หนังเรทอาร์ 18+ " , MEYD-624
+#EXTINF:-1 tvg-logo="https://av24flix.s3.ap-southeast-1.amazonaws.com/preview/1675506738136meyd624pl.jpg" group-title="🔞 หนังเรทอาร์ 18+ " , MEYD-624
 #EXTVLCOPT:http-referrer=https://api.av24flix.com/
 https://vod.googlecdnforstreaming.live:443/vodav/MEYD-624.mp4/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://av24flix.s3.ap-southeast-1.amazonaws.com/preview/1675506620827MIDV-268.jpg" group-title="หนังเรทอาร์ 18+ " , MIDV-268
+#EXTINF:-1 tvg-logo="https://av24flix.s3.ap-southeast-1.amazonaws.com/preview/1675506620827MIDV-268.jpg" group-title="🔞 หนังเรทอาร์ 18+ " , MIDV-268
 #EXTVLCOPT:http-referrer=https://api.av24flix.com/
 https://vod.googlecdnforstreaming.live:443/vodav/MIDV-268.mp4/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://av24flix.s3.ap-southeast-1.amazonaws.com/preview/1675506362724FSDSS-553-1072x720.jpg" group-title="หนังเรทอาร์ 18+ " , FSDSS-553
+#EXTINF:-1 tvg-logo="https://av24flix.s3.ap-southeast-1.amazonaws.com/preview/1675506362724FSDSS-553-1072x720.jpg" group-title="🔞 หนังเรทอาร์ 18+ " , FSDSS-553
 #EXTVLCOPT:http-referrer=https://api.av24flix.com/
 https://vod.googlecdnforstreaming.live:443/vodav/FSDSS-553.mp4/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://av24flix.s3.ap-southeast-1.amazonaws.com/preview/1675156064128nsfs136pl.jpg" group-title="หนังเรทอาร์ 18+ " , NSFS-136
+#EXTINF:-1 tvg-logo="https://av24flix.s3.ap-southeast-1.amazonaws.com/preview/1675156064128nsfs136pl.jpg" group-title="🔞 หนังเรทอาร์ 18+ " , NSFS-136
 #EXTVLCOPT:http-referrer=https://api.av24flix.com/
 https://vod.googlecdnforstreaming.live:443/vodav/NSFS-136.mp4/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://av24flix.s3.ap-southeast-1.amazonaws.com/preview/1675156014697nsfs019sopl.jpg" group-title="หนังเรทอาร์ 18+ " , NSFS-019
+#EXTINF:-1 tvg-logo="https://av24flix.s3.ap-southeast-1.amazonaws.com/preview/1675156014697nsfs019sopl.jpg" group-title="🔞 หนังเรทอาร์ 18+ " , NSFS-019
 #EXTVLCOPT:http-referrer=https://api.av24flix.com/
 https://vod.googlecdnforstreaming.live:443/vodav/NSFS-019.mp4/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://av24flix.s3.ap-southeast-1.amazonaws.com/preview/1675155846593jul885pl.jpg" group-title="หนังเรทอาร์ 18+ " ,  JUL-885
+#EXTINF:-1 tvg-logo="https://av24flix.s3.ap-southeast-1.amazonaws.com/preview/1675155846593jul885pl.jpg" group-title="🔞 หนังเรทอาร์ 18+ " ,  JUL-885
 #EXTVLCOPT:http-referrer=https://api.av24flix.com/
 https://vod.googlecdnforstreaming.live:443/vodav/JUL-885.mp4/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/SQTE-460.webp",Z-sqte-460
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/SQTE-460.webp",Z-sqte-460
 https://surrit.com/fcbe7f05-f6a0-4201-94c7-d5df73605404/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/JUFE-441.webp",Z-jufe-441
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/JUFE-441.webp",Z-jufe-441
 https://surrit.com/c45b19cf-55a6-4ede-89ef-e86921b191e7/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/YMDD-301.webp",ymdd-301
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/YMDD-301.webp",ymdd-301
 https://surrit.com/4091ac01-6d37-4d35-a22f-56615220f95f/1280x720/video.m3u8
 
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-688/cover-t.jpg",Z-stars-688
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-688/cover-t.jpg",Z-stars-688
 https://surrit.com/fc256cc2-95a4-4ee1-9abc-5509a1d0a750/1280x720/video.m3u8
  
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-641/cover-t.jpg",Z-stars-641
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-641/cover-t.jpg",Z-stars-641
 https://surrit.com/a5973315-b372-4c40-a3a2-090806cc4d89/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars653/1stars653pl.jpg",Z-stars-653
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars653/1stars653pl.jpg",Z-stars-653
 https://surrit.com/5f72eab7-7eac-47c8-8dd5-d574c96837b0/1280x720/video.m3u8
  
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-607/cover-t.jpg",Z-stars-607
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-607/cover-t.jpg",Z-stars-607
 https://surrit.com/f815a5ee-c2b0-4c8d-9dde-2810efad8181/1280x720/video.m3u8
 
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/juq-209/cover-t.jpg",Z-JUQ-209
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/juq-209/cover-t.jpg",Z-JUQ-209
 https://surrit.com/b7db70e3-55fe-423f-b150-0a4ce13fadd5/1280x720/video.m3u8
  
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-533/cover-t.jpg",Z-stars-533
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-533/cover-t.jpg",Z-stars-533
 https://surrit.com/24647583-ea55-41cc-93b8-f679da067968/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-580/cover-t.jpg",Z-stars-580
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-580/cover-t.jpg",Z-stars-580
 https://surrit.com/576e997d-b8db-48ae-9e39-8eb675bc3139/1280x720/video.m3u8 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-559/cover-t.jpg",Z-stars-559
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-559/cover-t.jpg",Z-stars-559
 https://surrit.com/c17ae8d8-c3b0-4bd0-957c-6356f2fed2e7/1280x720/video.m3u8
 
 
@@ -1328,162 +1341,162 @@ https://surrit.com/c17ae8d8-c3b0-4bd0-957c-6356f2fed2e7/1280x720/video.m3u8
 ######Sex Thai##########
 
 
-#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2023/02/aYBOnFKMsRE-360x203.jpg" group-title="หนังเรทอาร์ 18+ " ,Z-ThaiSwinger 
+#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2023/02/aYBOnFKMsRE-360x203.jpg" group-title="🔞 หนังเรทอาร์ 18+ " ,Z-ThaiSwinger 
 #EXTVLCOPT:http-referrer=https://av-th.xyz/video/24917db15c4e37e421866448c9ab23d8
 https://av-th.xyz/cdn/hls/1c7683b061ad654e9ed0a810459e8159/master.txt.m3u8
-#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2023/01/moemoe_001-360x203.jpg" group-title="หนังเรทอาร์ 18+ " ,Z-Asiansexdiary
+#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2023/01/moemoe_001-360x203.jpg" group-title="🔞 หนังเรทอาร์ 18+ " ,Z-Asiansexdiary
 #EXTVLCOPT:http-referrer=https://av-th.xyz/video/2cd4e8a2ce081c3d7c32c3cde4312ef7
 https://av-th.xyz/cdn/hls/6f5ce4a228810270c2d2596b5301a83c/master.txt.m3u8
-#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2023/01/Tuktukpatrol-–-Bell-เบล-360x203.jpg" group-title="หนังเรทอาร์ 18+ " ,Z-Tuktukpatrol
+#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2023/01/Tuktukpatrol-–-Bell-เบล-360x203.jpg" group-title="🔞 หนังเรทอาร์ 18+ " ,Z-Tuktukpatrol
 #EXTVLCOPT:http-referrer=https://av-th.xyz/video/fb2e203234df6dee15934e448ee88971
 https://av-th.xyz/cdn/hls/e779a399060c88673b664422e7df3cfa/master.txt.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/12/Jenny-F-01-Cute-Thai-girl-in-Cosplay-attire-360x203.jpg" group-title="หนังเรทอาร์ 18+ " ,Z-Asiansexdiary 
+#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/12/Jenny-F-01-Cute-Thai-girl-in-Cosplay-attire-360x203.jpg" group-title="🔞 หนังเรทอาร์ 18+ " ,Z-Asiansexdiary 
 #EXTVLCOPT:http-referrer=https://av-th.xyz/video/07811dc6c422334ce36a09ff5cd6fe71
 https://av-th.xyz/cdn/hls/09f9e2f287574bfe03305749595fafc1/master.txt.m3u8
-#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/12/anf-360x203.jpg" group-title="หนังเรทอาร์ 18+ " ,Z-Asiansexdiary 
+#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/12/anf-360x203.jpg" group-title="🔞 หนังเรทอาร์ 18+ " ,Z-Asiansexdiary 
 #EXTVLCOPT:http-referrer=https://av-th.xyz/video/05a5cf06982ba7892ed2a6d38fe832d6
 https://av-th.xyz/cdn/hls/2264847ad901f4c0414090009dd707aa/master.txt.m3u8
-#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/12/Sexy-Thai-Model-Nori-poses-in-black-sexy-dress-on-bed-1-360x203.jpg" group-title="หนังเรทอาร์ 18+ " ,Z-Asiansexdiary 
+#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/12/Sexy-Thai-Model-Nori-poses-in-black-sexy-dress-on-bed-1-360x203.jpg" group-title="🔞 หนังเรทอาร์ 18+ " ,Z-Asiansexdiary 
 #EXTVLCOPT:http-referrer=https://av-th.xyz/video/65d2ea03425887a717c435081cfc5dbb
 https://av-th.xyz/cdn/hls/160faa823c643bfff2dc4d04eff7e083/master.txt.m3u8
-#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/12/5vo-360x203.jpg" group-title="หนังเรทอาร์ 18+ " ,Z-Tuktukpatrol 
+#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/12/5vo-360x203.jpg" group-title="🔞 หนังเรทอาร์ 18+ " ,Z-Tuktukpatrol 
 #EXTVLCOPT:http-referrer=https://av-th.xyz/video/4ba29b9f9e5732ed33761840f4ba6c53
 https://av-th.xyz/cdn/hls/aab34953f1e3e6226c4de946c81ae9a1/master.txt.m3u8
-#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/09/Asiansexdiary-–-Ghust-2-โกสต์-360x203.jpg" group-title="หนังเรทอาร์ 18+ " ,Z-Asiansexdiary
+#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/09/Asiansexdiary-–-Ghust-2-โกสต์-360x203.jpg" group-title="🔞 หนังเรทอาร์ 18+ " ,Z-Asiansexdiary
 #EXTVLCOPT:http-referrer=https://av-th.xyz/video/a19acd7d2689207f9047f8cb01357370
 https://av-th.xyz/cdn/hls/fc0b74ad9690eb881f2da3129067ff62/master.txt.m3u8
-#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/08/pikka2-01-skinny-xxx-model-ready-to-ride-tuktuk-1-360x203.jpg" group-title="หนังเรทอาร์ 18+ " ,Z-Tuktukpatrol 
+#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/08/pikka2-01-skinny-xxx-model-ready-to-ride-tuktuk-1-360x203.jpg" group-title="🔞 หนังเรทอาร์ 18+ " ,Z-Tuktukpatrol 
 #EXTVLCOPT:http-referrer=https://av-th.xyz/video/5b6ba13f79129a74a3e819b78e36b922
 https://av-th.xyz/cdn/hls/7e774c48676ecf674605e1a984ad5de6/master.txt.m3u8
-#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/08/yanni-03-seductive-filipina-model-models-in-first-bbc-fantasy-scene-1-360x203.jpg" group-title="หนังเรทอาร์ 18+ " ,Z-Trikepatrol 
+#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/08/yanni-03-seductive-filipina-model-models-in-first-bbc-fantasy-scene-1-360x203.jpg" group-title="🔞 หนังเรทอาร์ 18+ " ,Z-Trikepatrol 
 #EXTVLCOPT:http-referrer=https://av-th.xyz/video/e8fd4a8a5bab2b3785d794ab51fef55c
 https://av-th.xyz/cdn/hls/3eb273a40368bbc8a25e9b1f6df79d30/master.txt.m3u8
-#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/11/1b-360x203.png" group-title="หนังเรทอาร์ 18+ " ,Z-MongerInAsia 
+#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/11/1b-360x203.png" group-title="🔞 หนังเรทอาร์ 18+ " ,Z-MongerInAsia 
 #EXTVLCOPT:http-referrer=https://av-th.xyz/video/de03beffeed9da5f3639a621bcab5dd4
 https://av-th.xyz/cdn/hls/df556e2abd9f37b0b4b7ae60efcfadd8/master.txt.m3u8
-#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/11/ThaiGirlsWild-Nantawan-360x203.jpg" group-title="หนังเรทอาร์ 18+ " ,Z-ThaiGirlsWild 
+#EXTINF:-1 tvg-logo="https://www.av-th.net/wp-content/uploads/2022/11/ThaiGirlsWild-Nantawan-360x203.jpg" group-title="🔞 หนังเรทอาร์ 18+ " ,Z-ThaiGirlsWild 
 #EXTVLCOPT:http-referrer=https://av-th.xyz/video/c215b446bcdf956d848a8419c1b5a920
 https://av-th.xyz/cdn/hls/bdd0d2e6eefb1451fe07fb50f03718fd/master.txt.m3u8
 
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-141/cover-t.jpg",Z-stars-141
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-141/cover-t.jpg",Z-stars-141
 https://surrit.com/3c7c9e7c-f630-48ee-aa1b-71b671cccd58/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-258/cover-t.jpg",Z-stars-258
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-258/cover-t.jpg",Z-stars-258
 https://surrit.com/3d7355ac-ad59-4c16-891a-9b636127df21/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-080/cover-t.jpg",Z-stars-080
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-080/cover-t.jpg",Z-stars-080
 https://surrit.com/6e5caef0-23c8-4e1d-8e28-88a5264424f8/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-043/cover-t.jpg",Z-stars-043
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/stars-043/cover-t.jpg",Z-stars-043
 https://surrit.com/4ea938b1-ac88-41cb-ba14-c2ad5841c755/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/heyzo-1703/cover-t.jpg",Z-heyzo-1703
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/heyzo-1703/cover-t.jpg",Z-heyzo-1703
 https://surrit.com/6e2fa8a5-486f-46a3-a7bb-25bf07455371/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/102122_004/cover-t.jpg",Z-102122_004
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/102122_004/cover-t.jpg",Z-102122_004
 https://surrit.com/3ee4d700-59a7-44c2-9f16-171546eaff9d/1280x720/video.m3u8
 
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/112218-797/cover-t.jpg",Z-112218-797
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/112218-797/cover-t.jpg",Z-112218-797
 https://surrit.com/473d2372-a85e-4ab2-8579-9e9e54b947e3/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/020416-491/cover-t.jpg",Z-020416-491
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/020416-491/cover-t.jpg",Z-020416-491
 https://surrit.com/763e5009-f895-4885-aea6-1119c67cd647/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/heyzo-1726/cover-t.jpg",Z-heyzo-1726
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/heyzo-1726/cover-t.jpg",Z-heyzo-1726
 https://surrit.com/5341d528-f783-4e6f-810e-3373045731c4/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/heyzo-0698/cover-t.jpg",Z-heyzo-0698
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/heyzo-0698/cover-t.jpg",Z-heyzo-0698
 https://surrit.com/91814e8c-2c33-435e-9cd5-ebb0d8c338b7/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/avop-208/cover-t.jpg",Z-avop-208
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/avop-208/cover-t.jpg",Z-avop-208
 https://surrit.com/9b7f794d-61b7-4e56-90a6-cea21f819ce1/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/mxgs-891/cover-t.jpg",Z-mxgs-891
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/mxgs-891/cover-t.jpg",Z-mxgs-891
 https://surrit.com/cb920100-437f-4db7-b5b6-5ef26e937a1f/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/mxgs-884/cover-t.jpg",Z-mxgs-884
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/mxgs-884/cover-t.jpg",Z-mxgs-884
 https://surrit.com/80a6215d-0d68-4a4c-9220-edd96efa13d2/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/111921-001/cover-t.jpg",Z-111921-001
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/111921-001/cover-t.jpg",Z-111921-001
 https://surrit.com/748ba997-b6f7-420a-a0f8-ee380205f0ff/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/010623-001/cover-t.jpg",Z-010623-001
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/010623-001/cover-t.jpg",Z-010623-001
 https://surrit.com/55865273-1d8c-4eab-94bc-144695a5e29c/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/052919-930/cover-t.jpg",Z-052919-930
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/052919-930/cover-t.jpg",Z-052919-930
 https://surrit.com/61823edc-96ec-45ac-bdc8-d6439b8be5cb/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/120719-001/cover-t.jpg",Z-120719-001
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/120719-001/cover-t.jpg",Z-120719-001
 https://surrit.com/d3f7bf25-8cd1-4923-8e5f-d9f668f45969/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/081119-979/cover-t.jpg",Z-081119-979
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/081119-979/cover-t.jpg",Z-081119-979
 https://surrit.com/df100553-87a0-46b4-b0f9-9bd44789529a/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/062912-061/cover-t.jpg",Z-062912-061
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/062912-061/cover-t.jpg",Z-062912-061
 https://surrit.com/bd5024b3-3a56-4368-8469-14da63c58079/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/051019-916/cover-t.jpg",Z-051019-916
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/051019-916/cover-t.jpg",Z-051019-916
 https://surrit.com/2956f38e-f003-485d-b82b-8489b9a4709b/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/110918-789/cover-t.jpg",Z- 110918-789
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/110918-789/cover-t.jpg",Z- 110918-789
 https://surrit.com/85f1bf34-7763-43b5-8385-a27ff8cf2da7/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/heyzo-2039/cover-t.jpg",Z- HEYZO-2039
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/heyzo-2039/cover-t.jpg",Z- HEYZO-2039
 https://surrit.com/a65e3f31-04d9-4a9f-a9ec-2747bed9471e/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/020624_001/cover-t.jpg",Z-020624_001
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/020624_001/cover-t.jpg",Z-020624_001
 https://surrit.com/accaaae9-2f9d-46ee-a843-07c3e5b6c145/1920x1080/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/heyzo-1768/cover-t.jpg",Z-HEYZO-1768
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/heyzo-1768/cover-t.jpg",Z-HEYZO-1768
 https://surrit.com/7ce55c3f-dd49-4858-b4bc-d7142ef02f97/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/052618-675/cover-t.jpg",Z-052618-675
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/052618-675/cover-t.jpg",Z-052618-675
 https://surrit.com/ddf15dc7-daa1-4168-9fb6-fcf51aeb1209/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/heyzo-0282/cover-t.jpg",Z-HEYZO-0282
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/heyzo-0282/cover-t.jpg",Z-HEYZO-0282
 https://surrit.com/0c37e92c-61e8-46cf-824b-7c3b390dc229/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/081811_158/cover-t.jpg",Z-081811_158
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/081811_158/cover-t.jpg",Z-081811_158
 https://surrit.com/2eb22f5d-2780-4f6f-8d92-19b12709a484/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/031017-005/cover-t.jpg",Z-031017-005
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/031017-005/cover-t.jpg",Z-031017-005
 https://surrit.com/045bcec1-37d2-452b-9892-39dfb36eb9f4/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/100722_007/cover-t.jpg",Z-100722_007
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/100722_007/cover-t.jpg",Z-100722_007
 https://surrit.com/4cd0d85c-f3a7-4a21-9f86-89d3554a88a1/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/062212-055/cover-t.jpg",Z-062212-055
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/062212-055/cover-t.jpg",Z-062212-055
 https://surrit.com/9a6df894-bbb4-4caf-918a-5fc04f154cdb/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/042817-420/cover-t.jpg",Z-042817-420
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/042817-420/cover-t.jpg",Z-042817-420
 https://surrit.com/4ae1a032-ae6f-4c13-9edd-9aff500911e7/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/012318-589/cover-t.jpg",Z-012318-589
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/012318-589/cover-t.jpg",Z-012318-589
 https://surrit.com/247a3e61-8133-43c3-9e54-d3d4946eadb1/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/041318-001/cover-t.jpg",Z-041318_001
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/041318-001/cover-t.jpg",Z-041318_001
 https://surrit.com/196830f8-dc3d-4dfd-bc44-8bfd11a2b2eb/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/091722-001/cover-t.jpg",Z-091722-001
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/091722-001/cover-t.jpg",Z-091722-001
 https://surrit.com/2246080d-c406-475a-913d-49d6d27db14f/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/052412-320/cover-t.jpg",Z-052412-320
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/052412-320/cover-t.jpg",Z-052412-320
 https://surrit.com/103dc050-8e60-435a-b2ff-81ceba0b14f6/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/smd-126/cover-t.jpg",Z-smd-126
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/smd-126/cover-t.jpg",Z-smd-126
 https://surrit.com/95973d6a-d7c1-456c-acdc-279e749ae869/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/cwp-117/cover-t.jpg",Z-cwp-117
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/cwp-117/cover-t.jpg",Z-cwp-117
 https://surrit.com/03530ef5-692a-4700-a04e-8a1955aa9421/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/102215_184/cover-t.jpg",Z-102215_184
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/102215_184/cover-t.jpg",Z-102215_184
 https://surrit.com/6e9a8319-aa03-4a37-95b4-4196a009f736/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/042816-550/cover-t.jpg",Z-042816-550
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/042816-550/cover-t.jpg",Z-042816-550
 https://surrit.com/d4f2c5ad-1bdc-41e4-b7a4-46b57ee7097a/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/050418-003/cover-t.jpg",Z-050418-003
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/050418-003/cover-t.jpg",Z-050418-003
 https://surrit.com/0a3cf2a8-171a-4d46-8fd8-86d14f5f6384/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/n0783/cover-t.jpg",Z-n0783
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/n0783/cover-t.jpg",Z-n0783
 https://surrit.com/92bdc3fc-b80f-45a0-9db3-bcbd80956328/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/heyzo-0469/cover-t.jpg",Z-heyzo-0469
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/heyzo-0469/cover-t.jpg",Z-heyzo-0469
 https://surrit.com/3c005728-bb6f-4919-afa9-b4cc3f04f74b/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/040413_563/cover-t.jpg",Z-040413_563
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/040413_563/cover-t.jpg",Z-040413_563
 https://surrit.com/28156d88-0f3c-467f-901b-5386a4d4f4f2/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/laf-030/cover-t.jpg",Z-laf-030
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/laf-030/cover-t.jpg",Z-laf-030
 https://surrit.com/15fefa21-a9e8-49e0-a54d-b64eef6ab932/842x480/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/110218-003/cover-t.jpg",Z-110218_003
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/110218-003/cover-t.jpg",Z-110218_003
 https://surrit.com/cc7bc6aa-616a-4850-91ea-e8210f93d8a4/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/011215-782/cover-t.jpg",Z-011215-782
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/011215-782/cover-t.jpg",Z-011215-782
 https://surrit.com/ee8a2e66-8598-4c9c-a10b-9173b8a5734a/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/010922-001/cover-t.jpg",Z-010922-001
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/010922-001/cover-t.jpg",Z-010922-001
 https://surrit.com/6270a788-e20e-46c1-bbb4-48eb80faec7f/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/031522-001/cover-t.jpg",Z-031522-001
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/031522-001/cover-t.jpg",Z-031522-001
 https://surrit.com/dab65cde-6354-4a38-a1d4-45fb9be0ffeb/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/hey-137/cover-t.jpg",Z-HEY-137
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/hey-137/cover-t.jpg",Z-HEY-137
 https://surrit.com/5449e0d1-26d9-4635-a5e2-d12bc052cd78/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/050416_292/cover-t.jpg",Z-050416_292
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/050416_292/cover-t.jpg",Z-050416_292
 https://surrit.com/9e2cd3b4-605f-4823-bdd9-bac412a7373b/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/021318_645/cover-t.jpg",Z-021318_645
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/021318_645/cover-t.jpg",Z-021318_645
 https://surrit.com/10b831a3-1843-4687-9e0f-d021de7530fe/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/031613_551/cover-t.jpg",Z-031613_551
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/031613_551/cover-t.jpg",Z-031613_551
 https://surrit.com/23d6337e-6568-4787-8793-ce5d48f283a1/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/051613_592/cover-t.jpg",Z-051613_592
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/051613_592/cover-t.jpg",Z-051613_592
 https://surrit.com/d8e654a5-9d58-4eca-9587-6a944081c430/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/122113_719/cover-t.jpg",Z-122113_719
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/122113_719/cover-t.jpg",Z-122113_719
 https://surrit.com/7d132b15-28c8-4abf-85ba-897aa8dface4/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/xxx-Jxx-23935/cover-t.jpg",Z--23935
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/xxx-Jxx-23935/cover-t.jpg",Z--23935
 https://surrit.com/15ba7580-129b-458d-b531-657c4ba85449/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/n1110/cover-t.jpg",Z-n1110
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/n1110/cover-t.jpg",Z-n1110
 https://surrit.com/96d65c2e-ffed-4172-be02-c055531f28d4/1280x720/video.m3u8
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/n1466/cover-t.jpg",Z-n1466
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/n1466/cover-t.jpg",Z-n1466
 https://surrit.com/f115cde0-364f-42cc-8336-5b9c8ebd58c0/1280x720/video.m3u8
  
 
@@ -1494,73 +1507,73 @@ https://surrit.com/f115cde0-364f-42cc-8336-5b9c8ebd58c0/1280x720/video.m3u8
 
 
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/START-136-UNCENSORED-LEAK.jpg",Z-START-136
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/START-136-UNCENSORED-LEAK.jpg",Z-START-136
 https://surrit.com/1392da48-d99a-41d6-b52d-ffe6c6413ffb/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://avsoyhee.com/wp-content/uploads/2024/09/FSDSS-872-400x269.jpg",Z-FSDSS-872
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://avsoyhee.com/wp-content/uploads/2024/09/FSDSS-872-400x269.jpg",Z-FSDSS-872
 https://surrit.com/13c71a6d-3371-490d-b4d8-1093aa0b314e/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/DLDSS-348-UNCENSORED-LEAK.jpg",Z-DLDSS-348
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/DLDSS-348-UNCENSORED-LEAK.jpg",Z-DLDSS-348
 https://surrit.com/2dc05eae-e7e4-4f7a-a80e-75e766a35dba/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/xvsr-777-uncensored-leak/cover-n.jpg",Z-XVSR-777
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/xvsr-777-uncensored-leak/cover-n.jpg",Z-XVSR-777
 https://surrit.com/298951dd-6cbf-438d-8027-ba9f2a0fcb96/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/SMOK-004-UNCENSORED-LEAK.jpg",Z-SMOK-004
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/SMOK-004-UNCENSORED-LEAK.jpg",Z-SMOK-004
 https://surrit.com/003276a0-f74b-43d9-b8f0-15bd59efca95/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://tbi.sb-cd.com/t/12066451/1/2/w:300/t1-enh/fc2-ppv-3076281.jpg",Z-FC2-PPV-3076281
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://tbi.sb-cd.com/t/12066451/1/2/w:300/t1-enh/fc2-ppv-3076281.jpg",Z-FC2-PPV-3076281
 https://surrit.com/11c7c58a-5768-42fe-aed9-bc3c8fbde1c0/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://cdn001.imggle.net/thumb/20220707/1657970414.jpg",Z-FC2-PPV-3049163
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn001.imggle.net/thumb/20220707/1657970414.jpg",Z-FC2-PPV-3049163
 https://surrit.com/2891eded-b26a-4a2c-8091-2c369ccbf73c/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/PPV-2386297.webp",Z-FC2-PPV-2386297
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/PPV-2386297.webp",Z-FC2-PPV-2386297
 https://surrit.com/6efa941b-5817-4135-9fb9-089337dee27d/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://cdn.njav.tv/images/e/6e/fc2-ppv-2483055/thumb_h.jpg",Z-FC2-PPV-2483055
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.njav.tv/images/e/6e/fc2-ppv-2483055/thumb_h.jpg",Z-FC2-PPV-2483055
 https://surrit.com/ca6829c6-d647-49af-9390-3dc0db80830f/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://file.tkcdns.com/contents/videos_screenshots/157000/157495/320x180/3.jpg",Z-FC2-PPV-3152570
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://file.tkcdns.com/contents/videos_screenshots/157000/157495/320x180/3.jpg",Z-FC2-PPV-3152570
 https://surrit.com/d5a473de-e50d-4c37-9c2e-a9b7dd6348c7/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.cx/images/SSIS-813.webp",Z-SSIS-813
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.cx/images/SSIS-813.webp",Z-SSIS-813
 https://surrit.com/d4ad0b8a-7acf-42bc-ae8e-50c0e35f54a7/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/ipzz-446-uncensored-leak/cover-n.jpg",Z-IPZZ-446
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/ipzz-446-uncensored-leak/cover-n.jpg",Z-IPZZ-446
 https://surrit.com/d2894e53-23a9-4df0-af92-bf47347be479/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://javgiga.com/wp-content/uploads/2024/10/FC2-PPV-4543265.jpg",Z-FC2-PPV-4543265
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://javgiga.com/wp-content/uploads/2024/10/FC2-PPV-4543265.jpg",Z-FC2-PPV-4543265
 https://surrit.com/00eb1a1e-1d5c-4939-9d92-30a59ed2adef/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://javopen.co/wp-content/uploads/2024/10/FC2-PPV-4533133.jpg",Z-FC2-PPV-4533133
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://javopen.co/wp-content/uploads/2024/10/FC2-PPV-4533133.jpg",Z-FC2-PPV-4533133
 https://surrit.com/a3f4bc86-d375-4d9d-9721-983338a83d2c/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://img.javpop.mov/2024/10/05/fc2-ppv-ppv-4547346_1.jpg",Z-FC2-PPV-4547346
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img.javpop.mov/2024/10/05/fc2-ppv-ppv-4547346_1.jpg",Z-FC2-PPV-4547346
 https://surrit.com/1fa1deff-6bd1-4a80-80e3-fdc112f20c7d/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://contents-thumbnail2.fc2.com/w1280/storage50000.contents.fc2.com/file/326/32518753/1727622110.92.jpg",Z-FC2-PPV-4544423
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://contents-thumbnail2.fc2.com/w1280/storage50000.contents.fc2.com/file/326/32518753/1727622110.92.jpg",Z-FC2-PPV-4544423
 https://surrit.com/c8a28180-1428-491e-ae09-26445c7174f3/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://file.tkcdns.com/contents/videos_screenshots/220000/220589/preview_720p.mp4.jpg",Z-Z FC2-PPV-4157003
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://file.tkcdns.com/contents/videos_screenshots/220000/220589/preview_720p.mp4.jpg",Z-Z FC2-PPV-4157003
 https://surrit.com/1d2a890f-6eb1-4584-88b9-78cc6de99e0d/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/2PPV-3393451.webp",Z-Z FC2-PPV-3393451
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/2PPV-3393451.webp",Z-Z FC2-PPV-3393451
 https://surrit.com/1a3ad742-903d-492a-9abc-0e2a21f99dd0/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://www.avdbs.com/upload2/2103/bt02/210319121028_6734_2649.jpg",Z-Z FC2-PPV-923968
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://www.avdbs.com/upload2/2103/bt02/210319121028_6734_2649.jpg",Z-Z FC2-PPV-923968
 https://surrit.com/bf5ded1d-a0df-45ea-9a35-79adaa978ee4/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/SONE-471.jpg",Z-Z SONE-471
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/SONE-471.jpg",Z-Z SONE-471
 https://surrit.com/ad9ecd80-2269-42e5-ab90-38f4162d3a49/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://cdn001.imggle.net/webp/poster/20240410/1728341613.webp",Z-Z FSDSS-859
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn001.imggle.net/webp/poster/20240410/1728341613.webp",Z-Z FSDSS-859
 https://surrit.com/ad9ecd80-2269-42e5-ab90-38f4162d3a49/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://cdn.javsts.com/wp-content/uploads/2024/10/1start175pl.jpg",Z-Z START-175
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.javsts.com/wp-content/uploads/2024/10/1start175pl.jpg",Z-Z START-175
 https://surrit.com/56e5596c-d8e0-4f36-ba06-710d4530ad00/playlist.m3u8
 
-#EXTINF:-1 group-title="หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/umd-669/cover-n.jpg",Z-Z UMD-669
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/umd-669/cover-n.jpg",Z-Z UMD-669
 https://surrit.com/ac7c19fe-60e7-4133-a1b9-0ba32a11665f/playlist.m3u8
 
 
