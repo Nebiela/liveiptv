@@ -468,6 +468,17 @@ https://live.lnwplayer.com/hls/15477c53-e041-4462-bb3d-baa66631afe1/index.m3u8
 https://live.lnwplayer.com/hls/c33a9344-3834-4763-8f13-44d1f7873198/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/%E0%B8%AB%E0%B8%AD%E0%B9%81%E0%B8%95%E0%B9%8B%E0%B8%A7%E0%B9%81%E0%B8%95%E0%B8%81-%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%B0%E0%B8%AB%E0%B8%A2%E0%B8%94-Oh-My-Ghost-The-Finale-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,ก- หอแต๋วแตก แหกสัปะหยด
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/2049b2b7c05193358600d233/2049b2b7c05193358600d233.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/Operation-Blood-Hunt-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,ก- Operation Blood Hunt
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/108c173da761f9ea63707c46/108c173da761f9ea63707c46.m3u8
+
+
+
 
 
 
@@ -578,7 +589,16 @@ https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
 ##############moviefixnet##################
 
 
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/07/Beverly-Hills-Cop-Axel-F-2024-%E0%B9%82%E0%B8%9B%E0%B8%A5%E0%B8%B4%E0%B8%A8%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88-%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B9%80%E0%B8%8B%E0%B8%A5-%E0%B9%80%E0%B8%AD%E0%B8%9F-300x450.jpg",ก- โปลิศจับตำรวจ เอ็กเซล เอฟ (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://main.24playerhd.com/newplaylist/91acdf37f6bd837f8d94bbb0/91acdf37f6bd837f8d94bbb0.m3u8
 
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/07/Vanished-into-the-Night-2024-%E0%B8%84%E0%B9%88%E0%B8%B3%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B7%E0%B8%99%E0%B8%AB%E0%B8%B2%E0%B8%A2-300x450.jpg",ก- ค่ำคืนกลืนหาย (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://main.24playerhd.com/newplaylist/9e38d158f0e9b295a9d12c76/9e38d158f0e9b295a9d12c76.m3u8
 
 
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/The-Story-of-Yuan-Tiangang-%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%A7-2024.webp",AA ยุทธจักรของคนเลว (2024)
@@ -686,7 +706,7 @@ https://main.24playerhd.com/newplaylist/fa42b12851ac746b34e96279/fa42b12851ac746
 
 
 
-#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/The-Goat-Life-2024-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%9E%E0%B8%B0-300x450.jpg",(2024) คนเลี้ยงแพะ
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/The-Goat-Life-2024-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%9E%E0%B8%B0-300x450.jpg",Z-(2024) คนเลี้ยงแพะ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/48d09515d6e2c8b09ed6704d/48d09515d6e2c8b09ed6704d.m3u8
@@ -776,6 +796,23 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8
 
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/B8dB6hE.png",MTV Serie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609536871db47700075a04bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0449-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3ead3cd0-99a8-4b3b-83e4-6c4be0dae5da
+
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/B8dB6hE.png",MTV Serie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609536871db47700075a04bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0449-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3ead3cd0-99a8-4b3b-83e4-6c4be0dae5da
+
+
+#EXTINF:-1 group-title="🎞️ หนังภาพยนตร์" tvg-logo="https://i.imgur.com/P9Zoa9L.png",TV Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec791-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5500aa67-c527-4db6-868b-d37341c34286
 
 
 
@@ -949,6 +986,19 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
 
+#EXTINF:-1 group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://i.imgur.com/GHW6prH.png",Z-TV Anime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7970-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=042724a5-f12e-43ab-9538-dac62e47d082
+
+
+#EXTINF:-1 group-title="👨‍👩‍👧  ‍การ์ตูนทีวี" tvg-logo="https://i.imgur.com/tyHDvK8.png",Z-Nick TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b58-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d3f62f1d-7d8d-4d3f-a141-db9f502deb6b
+
+
+
 
 
 
@@ -957,7 +1007,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 
 #########หนังตลก#########################
 
-
+#EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-My-Boo-2024-300x450.jpg",ก- อนงค์ My Boo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://main.24playerhd.com/newplaylist/6e363837ea8a7bdd61c97cb9/6e363837ea8a7bdd61c97cb9.m3u8
 
 #EXTINF:-1 group-title="🤡 หนังตลก Comedy" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/07/E-San-Love-Story-2017-%E0%B8%AA%E0%B9%88%E0%B8%A1-%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99-300x450.jpg",AA-A ส่ม ภัค เสี่ยน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1575,6 +1628,14 @@ https://surrit.com/56e5596c-d8e0-4f36-ba06-710d4530ad00/playlist.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/umd-669/cover-n.jpg",Z-Z UMD-669
 https://surrit.com/ac7c19fe-60e7-4133-a1b9-0ba32a11665f/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.javsts.com/wp-content/uploads/2024/10/FSDSS-836_1200.jpg",Z-Z FSDSS-836
+https://surrit.com/957657bb-5607-49b2-968d-0cfd3ad2d8cd/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://cdn.javsts.com/wp-content/uploads/2024/10/FSDSS-859_1200.jpg",Z-Z FSDSS-859 
+https://surrit.com/e8d3e970-5257-40ff-be9d-bc7ced6402b2/playlist.m3u8
+
 
 
 
