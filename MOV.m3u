@@ -155,6 +155,11 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 #############movie###############
 
 
+#EXTINF:-1 tvg-logo="https://22-hd.com/wp-content/uploads/2024/10/Uprising.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A กบฏผงาดแผ่นดิน Uprising (2024) 
+#EXTVLCOPT:http-referrer=https://22-hd.com/
+https://m5-txt-2.xdomovie247.com/playlist2/detail/7eaa3879xAhIz/720/hls/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Hijack-1971-%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%9F%E0%B9%89%E0%B8%B2-2024-300x450.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA Aนรกเหนือน่านฟ้า (2024)
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/b7f57e64e16c637787d045c2/b7f57e64e16c637787d045c2.m3u8
@@ -496,10 +501,43 @@ https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499665.png",A- PREMIER 1 สำรอง ความละเอียด 480p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499665.png",A- PREMIER 1 สำรอง ความละเอียด 480p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://219.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499673.png",A- PREMIER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
 https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499665.png",A- PREMIER 2 สำรอง ความละเอียด 480p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499665.png",A- PREMIER 2 สำรอง ความละเอียด 720p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499692.png",A- PREMIER 3  ความละเอียด 720p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://219.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://dookeela.live/uploads/1664499692.png",A- PREMIER 4  ความละเอียด 720p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://ufabetcompany.ltd/wp-content/uploads/logo-channel/bein1.png", Bein 1
@@ -519,6 +557,12 @@ https://streaming.livescorethai.net/iptv/hd-bein2.stream/chunks.m3u8
 https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-7/playlist.m3u8
 
 
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://ufabetcompany.ltd/wp-content/uploads/logo-channel/bein3.png", Bein 3 สำรอง ความละเอียด 720p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png", True Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
@@ -529,6 +573,9 @@ https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://ufabetcompany.app
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-9/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664802480.png" group-title="⚽ ดูบอลออนไลน์",True Sport 3  ความละเอียด 720p
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/pptv.png", PPTV
@@ -537,7 +584,7 @@ https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-9/playlist
 https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cd0c92a3-96d1-411b-90c5-ac3f29d86485-profile_image-300x300.png"",RED BULL TV
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cd0c92a3-96d1-411b-90c5-ac3f29d86485-profile_image-300x300.png",RED BULL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -598,12 +645,28 @@ https://edge02.odtv.az/o4/extremesport/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.i-pic.info/i/sX02853792.png",TRUE BALL THAI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai1/playlist.m3u8
 
+
+#EXTINF:-1 group-title="⚽ ดูบอลออนไลน์" tvg-logo="https://www.i-pic.info/i/Fk36853791.png",TRUE BALL THAI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai2/playlist.m3u8
 
 
 
 
 ##############moviefixnet##################
+
+
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://22-hd.com/wp-content/uploads/2024/10/Uprising.webp",AA-A กบฏผงาดแผ่นดิน Uprising (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://22-hd.com/
+https://m5-txt-2.xdomovie247.com/playlist2/detail/7eaa3879xAhIz/720/hls/index.m3u8
 
 
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/07/Beverly-Hills-Cop-Axel-F-2024-%E0%B9%82%E0%B8%9B%E0%B8%A5%E0%B8%B4%E0%B8%A8%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88-%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B9%80%E0%B8%8B%E0%B8%A5-%E0%B9%80%E0%B8%AD%E0%B8%9F-300x450.jpg",ก- โปลิศจับตำรวจ เอ็กเซล เอฟ (2024)
