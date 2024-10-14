@@ -163,7 +163,7 @@ https://live.lnwplayer.com/hls/a0b5ba47-b3d8-4a89-8e8c-ab492f3baeca/index.m3u8
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/b15370af-b5fe-4416-abcf-067f85d1f05a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Caddo-Lake-2024-%E0%B8%9A%E0%B8%B6%E0%B8%87%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A5%E0%B8%B1%E0%B8%9A.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A เฮลล์บอย ฮีโร่พันธุ์นรก 4
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Hellboy-The-Crooked-Man-2024-%E0%B9%80%E0%B8%AE%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A2-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%A3%E0%B8%81-4.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A เฮลล์บอย ฮีโร่พันธุ์นรก 4
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/78e25349-a781-471d-8911-2e8a864620a9/index.m3u8
 
@@ -930,6 +930,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 
 ###########tvKid######################
 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Given-The-Movie-2020-300x450.jpg" group-title="👦 หนังการ์ตูน" ,AA-7.7
+Given The Movie
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://main.24playerhd.com/newplaylist/1331338612cbc1e645a7dfd9/1331338612cbc1e645a7dfd9.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Blue-Lock-Episode-Nagi-%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B4-2024-300x450.jpg" group-title="👦 หนังการ์ตูน" ,AA-บลูล็อก เดอะมูฟวี่ ตอนนากิ (2024)
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://main.24playerhd.com/newplaylist/d6ba9f6a5f23058bb410fbdb/d6ba9f6a5f23058bb410fbdb.m3u8
 
 #EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2024/10/Doraemon-the-Movie-Nobitas-Earth-Symphony-%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%99-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B4%E0%B8%A1%E0%B9%82%E0%B8%9F%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%95%E0%B8%B0-2024-189x280.jpg" group-title="👦 หนังการ์ตูน" ,A-โดราเอมอน เดอะ มูฟวี่
 #EXTVLCOPT:http-referrer=https://doomovie.online/
