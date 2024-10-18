@@ -154,12 +154,26 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
-#EXTINF:-1 tvg-logo="https://moviehd88.com/wp-content/uploads/2024/10/spWV1eRzlDxvai8LbxwAWR0Vst4-230x.png" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A Arcadian 2024
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Justice-Napad-2024-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A  (2024) ล่าความยุติธรรม
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/4c1bb93a-d93c-41e6-853b-aa0ce68e452e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Brothers-2024-%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A  (2024) บราเธอร์ส ปล้นครั้งนี้เพื่อพี่ที่รัก
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/d140d2d2-2ecd-479f-84f6-e76eebcccf86/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A1-3-Haunted-Universities-3-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A เทอม 3 Haunted 2024
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/8bb361bb8176617b1d08f4aa/8bb361bb8176617b1d08f4aa.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ0OTU4MDUtOTM5Yi00Y2QwLThhYTMtZGFmOWU2ZTU0Y2VlXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A Arcadian 2024
 #EXTVLCOPT:http-referrer=https://moviehd88.com/
 https://cdn.player2u.com/1/hv2/MVRBNXFWclBlR0loa2FCa0JTMGdtMTB2Q2xTbG85Qmwz/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/VHSBeyond-2024.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A V/H/S/Beyond (2024)
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/VHSBeyond-2024.webp" group-title="🎬 ดูหนังใหม่ 2024" ,Bb-A V/H/S/Beyond (2024)
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/a0b5ba47-b3d8-4a89-8e8c-ab492f3baeca/index.m3u8
 
@@ -687,6 +701,16 @@ https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
 ##############moviefixnet##################
 
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/The-Shadow-Strays-2024-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99.webp",AAA  (2024) นักฆ่าเงาล่าทรชน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/70e4792a-4aee-429a-8eec-64ff492e4e77/index.m3u8
+
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Justice-Napad-2024-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1.webp",AAA กบฏผงาดแผ่นดิน Uprising (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/4c1bb93a-d93c-41e6-853b-aa0ce68e452e/index.m3u8
 
 
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://22-hd.com/wp-content/uploads/2024/10/Uprising.webp",AAA กบฏผงาดแผ่นดิน Uprising (2024)
@@ -937,6 +961,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 
 
 ###########tvKid######################
+
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Sing-Thriller-2024-%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87.webp" group-title="👦 หนังการ์ตูน" ,AA-(2024) ร้องจริง เสียงจริง
+Given The Movie
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/2f236acd-9b20-4cea-bdfa-2ad8dd1abe43/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Given-The-Movie-2020-300x450.jpg" group-title="👦 หนังการ์ตูน" ,AA-7.7
 Given The Movie
