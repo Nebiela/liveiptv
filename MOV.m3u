@@ -154,6 +154,21 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Death-Whisperer-2-2024-%E0%B8%98%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%94-2.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-ADeath Whisperer 2 ธี่หยด 2 (Zoom)
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/c3b04810-0ae5-4871-b604-5def5fc6cb6c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/Canary-Black-%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%A5%E0%B8%81-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A Canary Black รหัสลับดับโลก (2024) 
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/81b2afe6eed266f57732b245/81b2afe6eed266f57732b245.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A7%E0%B8%99%E0%B8%A5%E0%B8%B9%E0%B8%9B-Love-Stuck-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A รักวนลูป Love Stuck (2024) 
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+hhttps://main.24playerhd.com/newplaylist/059c30ec5c7e5eef3ff44f98/059c30ec5c7e5eef3ff44f98.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Justice-Napad-2024-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A  (2024) ล่าความยุติธรรม
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/4c1bb93a-d93c-41e6-853b-aa0ce68e452e/index.m3u8
@@ -961,6 +976,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 
 
 ###########tvKid######################
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/The-Wild-Robot-%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%87-2024-187x269.jpg" group-title="👦 หนังการ์ตูน" ,AA-(2024) Wild Robot หุ่นยนต์ผจญภัย
+Given The Movie
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/821a2bcb34d0c8616e7772fb/821a2bcb34d0c8616e7772fb.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Sing-Thriller-2024-%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87.webp" group-title="👦 หนังการ์ตูน" ,AA-(2024) ร้องจริง เสียงจริง
