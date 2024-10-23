@@ -154,6 +154,17 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Outside-2024-%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C%E0%B9%84%E0%B8%8B%E0%B8%94%E0%B9%8C.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A (2024) เอาท์ไซด์
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/5a7aecb5-ed02-4bf5-80dd-afc15a337379/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Smile-2-2024-%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87-2.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A  (2024) ยิ้มสยอง 2
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/512aaaea-9c02-428b-8e3d-647a9bcb58dc/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Death-Whisperer-2-2024-%E0%B8%98%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%94-2.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A ธี่หยด 2 (Zoom) Death Whisperer 2 
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/c3b04810-0ae5-4871-b604-5def5fc6cb6c/index.m3u8
@@ -715,6 +726,13 @@ https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
 
 ##############moviefixnet##################
+
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Outside-2024-%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C%E0%B9%84%E0%B8%8B%E0%B8%94%E0%B9%8C.webp",AAA  (2024) เอาท์ไซด์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/5a7aecb5-ed02-4bf5-80dd-afc15a337379/index.m3u8
+
 
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/The-Shadow-Strays-2024-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99.webp",AAA  (2024) นักฆ่าเงาล่าทรชน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
