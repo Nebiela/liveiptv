@@ -154,6 +154,15 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/The-Man-Who-Loved-UFOs-%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%84%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%A2%E0%B8%B9%E0%B9%80%E0%B8%AD%E0%B8%9F%E0%B9%82%E0%B8%AD-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA   (2024)ชายผู้คลั่งไคล้ยูเอฟโอUFOs
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/8403925c360d380300e958ff/8403925c360d380300e958ff.m3u8
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Family-Pack-2024-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA (2024) เกมมนุษย์หมาป่า | NETFLIX
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/9a485dd5-924b-417a-b6ce-ad17a8e1042c/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/Venom-The-Last-Dance-%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A1-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA (2024) เวน่อม มหาศึกอสูรอหังการ (2024)
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/6fbcd3315d2bbc0d0d4ba84c/6fbcd3315d2bbc0d0d4ba84c.m3u8
@@ -730,6 +739,12 @@ https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 ##############moviefixnet##################
 
 
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Family-Pack-2024-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2.webp",AAA (2024) เกมมนุษย์หมาป่า | NETFLIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/9a485dd5-924b-417a-b6ce-ad17a8e1042c/index.m3u8
+
+
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Outside-2024-%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C%E0%B9%84%E0%B8%8B%E0%B8%94%E0%B9%8C.webp",AAA  (2024) เอาท์ไซด์
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://037hd.tv/
@@ -1304,6 +1319,10 @@ https://main.24playerhd.com/newplaylist/5b1c361a951324cfc33705dd/5b1c361a951324c
 
 
 ##############cina mov#######################
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Detective-Dee-and-the-Phantom-of-Waning-Moon-2024-%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C.webp" group-title="🚩 ดูหนังจีน China" ,(2024) ตี๋เหรินเจี๋ย
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/117d5fe5-ba8f-43f5-989a-2ad5cf1b4430/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/08/Nezha-Demon-Child-is-Back-2024-%E0%B8%99%E0%B8%B2%E0%B8%88%E0%B8%B2-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88-1-187x269.jpg" group-title="🚩 ดูหนังจีน China" ,นาจา (2024) Sound Track
