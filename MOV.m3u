@@ -154,8 +154,12 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Atlas-2024-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-1-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA(2024)ล่าข้ามจักรวาล
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/3fd66a144abb431c40eaec95/3fd66a144abb431c40eaec95.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/The-Man-Who-Loved-UFOs-%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%84%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%A2%E0%B8%B9%E0%B9%80%E0%B8%AD%E0%B8%9F%E0%B9%82%E0%B8%AD-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA   (2024)ชายผู้คลั่งไคล้ยูเอฟโอUFOs
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/The-Man-Who-Loved-UFOs-%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%84%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%A2%E0%B8%B9%E0%B9%80%E0%B8%AD%E0%B8%9F%E0%B9%82%E0%B8%AD-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA(2024)ชายผู้คลั่งไคล้ยูเอฟโอUFOs
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/8403925c360d380300e958ff/8403925c360d380300e958ff.m3u8
 
@@ -738,6 +742,11 @@ https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
 ##############moviefixnet##################
 
+
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Atlas-2024-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-1-187x269.jpg",AAA(2024)ล่าข้ามจักรวาล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/3fd66a144abb431c40eaec95/3fd66a144abb431c40eaec95.m3u8
 
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Family-Pack-2024-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2.webp",AAA (2024) เกมมนุษย์หมาป่า | NETFLIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1772,7 +1781,14 @@ https://surrit.com/f115cde0-364f-42cc-8336-5b9c8ebd58c0/1280x720/video.m3u8
 
 ######mp4 HLS test missav.com##########
 
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img3.javmost.com/images/MFCW-016.webp",Z-MFCW-016
+https://surrit.com/565624e7-7314-4f47-9a49-4fe2987d6998/playlist.m3u8
 
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://fivetiu.com/pkta-010-uncensored-leak/cover-n.jpg",Z-PKTA-010
+https://surrit.com/8078268f-c436-4cb5-bd68-7aad79ece26c/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://avjb.com/contents/videos_sources/53000/53462/screenshots/1.jpg",Z-MVSD-583
+https://surrit.com/f249f3e4-d032-4e07-bd5e-85230a0be623/playlist.m3u8
 
 #EXTINF:-1 group-title="🔞 หนังเรทอาร์ 18+ " tvg-logo="https://img2.javmost.com/file_image/START-136-UNCENSORED-LEAK.jpg",Z-START-136
 https://surrit.com/1392da48-d99a-41d6-b52d-ffe6c6413ffb/playlist.m3u8
