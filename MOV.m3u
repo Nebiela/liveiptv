@@ -154,6 +154,10 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Gladiator-II-%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B8%94%E0%B8%B4%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A-2-2024-187x269.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 Gladiator II แกลดดิเอเตอร์ 2
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/388e0f88d911fd1b62ef1151/388e0f88d911fd1b62ef1151.m3u8
+
 #EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/11/Red-One-2024.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-AAA 2024 เรดวัน Zoom
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/dd0ff977-ea52-460f-b509-e8db826d41ee/index.m3u8
@@ -243,7 +247,7 @@ https://live.lnwplayer.com/hls/d140d2d2-2ecd-479f-84f6-e76eebcccf86/index.m3u8
 https://main.24playerhd.com/newplaylist/8bb361bb8176617b1d08f4aa/8bb361bb8176617b1d08f4aa.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ0OTU4MDUtOTM5Yi00Y2QwLThhYTMtZGFmOWU2ZTU0Y2VlXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A Arcadian 2024
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ0OTU4MDUtOTM5Yi00Y2QwLThhYTMtZGFmOWU2ZTU0Y2VlXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="🎬 ดูหนังใหม่ 2024" ,F-F Arcadian 2024
 #EXTVLCOPT:http-referrer=https://moviehd88.com/
 https://cdn.player2u.com/1/hv2/MVRBNXFWclBlR0loa2FCa0JTMGdtMTB2Q2xTbG85Qmwz/playlist.m3u8
 
@@ -317,7 +321,7 @@ https://live.lnwplayer.com/hls/63e8cac6-8991-4d68-8c6d-6979160fd01f/index.m3u8
 https://live.lnwplayer.com/hls/ec65838b-bf4e-4421-aaf5-5be7621495be/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Joker-Folie-a-Deux-2024-%E0%B9%82%E0%B8%9F%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AD%E0%B8%B2-%E0%B9%80%E0%B8%94%E0%B8%AD-1.webp" group-title="🎬 ดูหนังใหม่ 2024" ,AA-A ซูม โจ๊กเกอร์ โฟลีย์ อา เดอ(2024)
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Joker-Folie-a-Deux-2024-%E0%B9%82%E0%B8%9F%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AD%E0%B8%B2-%E0%B9%80%E0%B8%94%E0%B8%AD-1.webp" group-title="🎬 ดูหนังใหม่ 2024" ,FF- ซูม โจ๊กเกอร์ โฟลีย์ อา เดอ(2024)
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/241b5492-d065-4bab-9855-e6854d893a79/index.m3u8
 
@@ -776,6 +780,12 @@ https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
 ##############moviefixnet##################
 
+#EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/The-Shadow-Strays-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-2024-187x269.jpg",AAA 2024)นักฆ่าเงาล่าทรชน (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/0bc8dbe76358714434f0f61a/0bc8dbe76358714434f0f61a.m3u8
+
+
 #EXTINF:-1 group-title="🍿 หนัง NETFLIX" tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Family-Pack-2024-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2.webp",AAA 2024) เกมมนุษย์หมาป่า | NETFLIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://037hd.tv/
@@ -1074,6 +1084,15 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 
 
 ###########tvKid######################
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/My-Hero-Academia-Youre-Next-%E0%B8%A1%E0%B8%B2%E0%B8%A2-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88-%E0%B8%AD%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2-2024-187x269.png" group-title="👦 หนังการ์ตูน" ,AA-AA(2024)  Academia You’re Next มาย ฮีโร่ อคาเดเมีย
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/77149630680ee07ecaa4ebdc/77149630680ee07ecaa4ebdc.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Look-Back-%E0%B8%A5%E0%B8%B8%E0%B8%84%E0%B9%81%E0%B8%9A%E0%B9%87%E0%B8%84-2024-187x269.jpg" group-title="👦 หนังการ์ตูน" ,AA-AA(2024) Back ลุคแบ็ค (2024)
+Given The Movie
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/8654fb5a6a614ad46ee07384/8654fb5a6a614ad46ee07384.m3u8
 
 #EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Haikyuu-The-Dumpster-Battle-2024.webp" group-title="👦 หนังการ์ตูน" ,AA-AA(2024) ไฮคิว!! คู่ตบฟ้าประทาน
 Given The Movie
