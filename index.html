@@ -1,14 +1,123 @@
-<html>
+<!DOCTYPE html>
+<html lang="th">
 <head>
-  <meta charset="UTF-8">
-  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
-  	<title>iptv รู้น่ะคิดไร ฝักคือฝักU</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="ฝักคือฝักU"> 
-<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
-<body bgcolor="000000">
-<center>
-  <h2><img src="https://i.ytimg.com/vi/kEdCKsmtFFc/sddefault.jpg"></h2>
-</center>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Movie Player (m3u8)</title>
+    <!-- เรียกใช้งาน Hls.js เพื่อให้เล่นไฟล์ m3u8 ได้บนทุกเบราว์เซอร์ -->
+    <script src="https://jsdelivr.net"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #141414;
+            color: #ffffff;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        h1 {
+            color: #e50914; /* สีแดงสไตล์แอปดูหนัง */
+            margin-bottom: 20px;
+        }
+        .container {
+            width: 100%;
+            max-width: 800px;
+            background: #1f1f1f;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+        }
+        .input-group {
+            margin-bottom: 20px;
+            display: flex;
+            gap: 10px;
+        }
+        input[type="text"] {
+            flex: 1;
+            padding: 12px;
+            border: 1px solid #333;
+            border-radius: 4px;
+            background-color: #333;
+            color: #fff;
+            font-size: 16px;
+        }
+        button {
+            padding: 12px 24px;
+            background-color: #e50914;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            transition: background 0.2s;
+        }
+        button:hover {
+            background-color: #b80710;
+        }
+        video {
+            width: 100%;
+            aspect-ratio: 16/9;
+            background-color: #000;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>🎬 NET PLAY</h1>
+
+    <div class="container">
+        <!-- ส่วนใส่ลิงก์ m3u8 สำหรับทดสอบหรือเปลี่ยนหนัง -->
+        <div class="input-group">
+            <input type="text" id="streamUrl" placeholder="วางลิงก์ไฟล์ .m3u8 ที่นี่...">
+            <button onclick="loadVideo()">เล่นหนัง</button>
+        </div>
+
+        <!-- เครื่องเล่นวิดีโอ -->
+        <video id="video" controls autoplay crossorigin="anonymous"></video>
+    </div>
+
+    <script>
+        // ตัวอย่างลิงก์ m3u8 สำหรับทดสอบ (เป็นไฟล์ทดสอบมาตรฐานแบบสตรีมมิ่ง)
+        const defaultStream = "https://mux.dev";
+        
+        document.getElementById('streamUrl').value = defaultStream;
+
+        function loadVideo() {
+            const video = document.getElementById('video');
+            const videoSrc = document.getElementById('streamUrl').value.trim();
+
+            if (!videoSrc) {
+                alert("กรุณาใส่ลิงก์ m3u8");
+                return;
+            }
+
+            // ตรวจสอบว่าเบราว์เซอร์รองรับ Hls.js หรือไม่ (เช่น Chrome, Firefox, Edge)
+            if (Hls.isSupported()) {
+                const hls = new Hls();
+                hls.loadSource(videoSrc);
+                hls.attachMedia(video);
+                hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                    video.play();
+                });
+            }
+            // หากเป็นเบราว์เซอร์ที่รองรับ HLS ในตัวอยู่แล้ว (เช่น Safari บน Mac หรือ iOS)
+            else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                video.src = videoSrc;
+                video.addEventListener('loadedmetadata', function() {
+                    video.play();
+                });
+            } else {
+                alert("เบราว์เซอร์ของคุณไม่รองรับการเล่นไฟล์สตรีมมิ่งประเภทนี้");
+            }
+        }
+
+        // เริ่มโหลดวิดีโอตัวอย่างทันทีเมื่อเปิดหน้าเว็บ
+        window.onload = loadVideo;
+    </script>
 </body>
 </html>
+
